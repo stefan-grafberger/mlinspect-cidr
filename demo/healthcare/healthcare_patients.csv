@@ -1,8 +1,8 @@
 id,first_name,last_name,race,county,num_children,income,age_group,ssn
 1,Abdul,Hodinton,Mexican,Iowa,5,17853.33,10,200-07-2687
-2,Wandis,Adamou,Argentinian,District of Columbia,2,34900.06,9,381-66-7740
+2,Wandis,Hodinton,Argentinian,District of Columbia,2,34900.06,9,381-66-7740
 3,Dennet,Crankshaw,Venezuelan,Florida,2,112087.11,10,458-28-1925
-4,Erroll,Slimon,Cree,Virginia,5,163648.16,7,711-64-6999
+4,Dennet,Slimon,Cree,Virginia,5,163648.16,7,711-64-6999
 5,Renelle,Pude,Crow,California,4,80818.15,4,651-76-6901
 6,Hyacinthe,Larkings,,,4,84743.44,8,751-40-0453
 7,Ondrea,Jain,Tohono O'Odham,Ohio,1,40150.54,7,631-75-2819
@@ -12,16 +12,16 @@ id,first_name,last_name,race,county,num_children,income,age_group,ssn
 11,Maynord,Phuprate,Ottawa,Florida,4,52375.98,5,555-33-7590
 12,Valery,Budd,Cheyenne,Connecticut,4,153120.05,1,332-08-1534
 13,Dennison,Milesop,Puerto Rican,Texas,0,174807.65,5,786-45-4387
-14,Gertie,Vanlint,Japanese,North Carolina,1,123574.0,5,102-53-1531
-15,Culver,Cocker,Venezuelan,California,2,94621.45,10,340-01-5519
-16,Doe,McGloughlin,Chippewa,California,0,121261.37,9,745-02-7880
-17,Hilary,McGaugan,Chamorro,Nevada,0,39360.95,9,668-63-1905
-18,Taylor,Merwood,Delaware,Texas,4,138852.83,1,780-60-0406
+14,Gertie,Milesop,Japanese,North Carolina,1,123574.0,5,102-53-1531
+15,Culver,Milesop,Venezuelan,California,2,94621.45,10,340-01-5519
+16,Doe,Milesop,Chippewa,California,0,121261.37,9,745-02-7880
+17,Hilary,Milesop,Chamorro,Nevada,0,39360.95,9,668-63-1905
+18,Taylor,Milesop,Delaware,Texas,4,138852.83,1,780-60-0406
 19,Vic,Anmore,Shoshone,Vermont,4,13649.74,9,229-58-2017
-20,Gavin,Seven,Samoan,California,1,23765.13,3,774-80-8026
-21,Rutledge,Liley,Polynesian,Colorado,4,79726.91,4,519-58-1936
-22,Libbi,Saich,Iroquois,Alabama,0,14561.25,9,247-96-8242
-23,Bobbette,Kilgrove,Thai,Indiana,1,163732.36,2,515-23-2704
+20,Vic,Anmore,Samoan,California,1,23765.13,3,774-80-8026
+21,Vic,Anmore,Polynesian,Colorado,4,79726.91,4,519-58-1936
+22,Vic,Anmore,Iroquois,Alabama,0,14561.25,9,247-96-8242
+23,Vic,Anmore,Thai,Indiana,1,163732.36,2,515-23-2704
 24,Lombard,Gottelier,Indonesian,Wisconsin,4,119790.08,4,800-87-5209
 25,Lil,Shayes,Creek,Iowa,5,36613.58,9,367-37-2875
 26,Nahum,Kubyszek,Ute,New York,3,83806.36,5,662-19-9927
