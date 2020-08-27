@@ -1,1001 +1,1001 @@
 id,first_name,last_name,race,county,num_children,income,age_group,ssn
-1,Abdul,Hodinton,Mexican,Iowa,5,17853.33,10,200-07-2687
-2,Wandis,Hodinton,Argentinian,District of Columbia,2,34900.06,9,381-66-7740
-3,Dennet,Crankshaw,Venezuelan,Florida,2,112087.11,10,458-28-1925
-4,Dennet,Slimon,Cree,Virginia,5,163648.16,7,711-64-6999
-5,Renelle,Pude,Crow,California,4,80818.15,4,651-76-6901
-6,Hyacinthe,Larkings,,,4,84743.44,8,751-40-0453
-7,Ondrea,Jain,Tohono O'Odham,Ohio,1,40150.54,7,631-75-2819
-8,Godfrey,Mabbett,Kiowa,Indiana,1,101745.49,8,129-93-8189
-9,Jaine,Shoveller,Yakama,Missouri,4,31651.33,8,325-38-2287
-10,Harmonie,Fraanchyonok,White,Massachusetts,1,104444.32,3,440-46-6444
-11,Maynord,Phuprate,Ottawa,Florida,4,52375.98,5,555-33-7590
-12,Valery,Budd,Cheyenne,Connecticut,4,153120.05,1,332-08-1534
-13,Dennison,Milesop,Puerto Rican,Texas,0,174807.65,5,786-45-4387
-14,Gertie,Milesop,Japanese,North Carolina,1,123574.0,5,102-53-1531
-15,Culver,Milesop,Venezuelan,California,2,94621.45,10,340-01-5519
-16,Doe,Milesop,Chippewa,California,0,121261.37,9,745-02-7880
-17,Hilary,Milesop,Chamorro,Nevada,0,39360.95,9,668-63-1905
-18,Taylor,Milesop,Delaware,Texas,4,138852.83,1,780-60-0406
-19,Vic,Anmore,Shoshone,Vermont,4,13649.74,9,229-58-2017
-20,Vic,Anmore,Samoan,California,1,23765.13,3,774-80-8026
-21,Vic,Anmore,Polynesian,Colorado,4,79726.91,4,519-58-1936
-22,Vic,Anmore,Iroquois,Alabama,0,14561.25,9,247-96-8242
-23,Vic,Anmore,Thai,Indiana,1,163732.36,2,515-23-2704
-24,Lombard,Gottelier,Indonesian,Wisconsin,4,119790.08,4,800-87-5209
-25,Lil,Shayes,Creek,Iowa,5,36613.58,9,367-37-2875
-26,Nahum,Kubyszek,Ute,New York,3,83806.36,5,662-19-9927
-27,Genovera,Rapper,Choctaw,Ohio,4,113155.51,7,672-36-2966
-28,Osborn,Tasseler,Salvadoran,Idaho,1,104792.64,10,213-16-3147
-29,Andra,Jumeau,Pakistani,Florida,0,14400.26,7,299-64-6927
-30,Antony,Mirfield,Salvadoran,Florida,0,123361.96,10,644-76-5332
-31,Kassi,Skone,,,4,161538.18,0,486-31-5627
-32,Elisabet,Landsbury,Hmong,Texas,2,114196.9,9,706-03-3286
-33,Ambrose,Bernt,Alaska Native,Missouri,3,48129.23,2,593-38-7515
-34,Doy,Roscher,Pima,Missouri,5,101973.5,9,895-47-6002
-35,Jourdan,Midner,Potawatomi,Iowa,1,113221.54,1,114-72-0229
-36,Gerianna,Menci,Aleut,North Carolina,3,137263.86,8,198-92-6206
-37,Thalia,Marien,Crow,Virginia,5,46597.19,6,780-07-3789
-38,Monro,Pocknoll,,,5,97944.4,10,593-45-3869
-39,Crissie,Dresche,Kiowa,New York,3,48107.05,7,112-66-2652
-40,Nestor,Jeannequin,Japanese,New York,5,105431.98,5,364-65-8998
-41,Lionel,Housbie,Taiwanese,Texas,5,48440.93,0,409-70-7746
-42,Diarmid,Trenoweth,Black or African American,New York,4,58500.85,9,809-55-9393
-43,Fremont,Sedworth,Lumbee,Texas,4,29685.41,8,377-97-5828
-44,Mickie,Tabram,Yaqui,Colorado,4,48812.94,3,573-62-0905
-45,Sallee,Doxey,Seminole,New York,4,11598.35,7,499-43-4140
-46,Kimball,Altham,Pima,Texas,5,37565.51,5,399-88-4325
-47,Gloriane,Teager,Asian Indian,Illinois,1,162721.31,2,819-25-5621
-48,Wilfrid,Mancer,Delaware,Illinois,5,10871.86,7,379-08-0046
-49,Eziechiele,Shotboult,Ottawa,New York,2,139336.43,4,544-38-6361
-50,Lily,Bryers,Costa Rican,Texas,0,96444.62,10,473-09-2341
-51,Dillon,Siddons,Asian,Pennsylvania,2,92168.03,9,635-95-0891
-52,Lucila,Beebe,Nicaraguan,Michigan,1,138188.95,2,148-88-1945
-53,Brit,Baxstair,Cambodian,Texas,1,140029.21,7,802-03-4577
-54,Salomon,Ayerst,Korean,California,3,159079.69,7,264-40-9725
-55,Christoffer,Crayke,Delaware,New York,0,128002.08,8,597-93-8919
-56,Kris,Weldon,Houma,Florida,1,130733.35,6,402-80-6658
-57,Guthrey,Heaselgrave,Seminole,Florida,1,121605.64,3,646-52-4745
-58,Koressa,Portriss,American Indian and Alaska Native (AIAN),Maryland,5,125660.5,7,413-57-5724
-59,Edsel,Bromley,,,0,81485.31,4,399-74-3258
-60,Hildagarde,Bowlesworth,Filipino,Alabama,2,14123.95,5,257-31-8662
-61,Loralee,Antonov,Hmong,Ohio,1,134589.11,10,366-33-9709
-62,Reina,Burnard,Chickasaw,California,4,134874.29,4,540-35-8962
-63,Sanford,Wotton,Blackfeet,Florida,1,145990.88,10,266-71-3901
-64,Prentiss,Maywood,Blackfeet,Virginia,2,56786.08,0,603-99-7563
-65,Sheffie,Lownes,Iroquois,Kentucky,3,150359.42,1,840-18-5387
-66,Mickie,Beushaw,Japanese,Oregon,0,22199.48,9,827-03-6179
-67,Loleta,Prazor,Polynesian,Nebraska,2,125259.83,10,277-47-2552
-68,Fianna,Winslow,Ottawa,Indiana,5,37599.39,8,621-18-8247
-69,Seka,Norcock,,,4,89072.75,9,417-43-9350
-70,Fonzie,Bidwell,Chippewa,California,2,147406.34,8,894-48-1400
-71,Vania,Paulon,Ecuadorian,Connecticut,4,70385.68,3,586-09-1368
-72,Cynde,Stivers,Spaniard,Wisconsin,4,164742.52,6,613-61-8844
-73,Denys,Oattes,Cambodian,Texas,2,69197.09,4,767-30-5358
-74,Donaugh,Mogg,Polynesian,Florida,2,148146.91,9,694-55-4160
-75,Wallache,Thornthwaite,Filipino,Washington,3,63397.71,9,375-19-1055
-76,Gert,Duce,,,3,59724.48,8,694-15-9986
-77,Oralia,Melby,Crow,Kansas,4,92611.31,8,581-41-7889
-78,Jamima,Fosdick,Kiowa,Indiana,5,41887.26,2,595-50-9435
-79,Arnoldo,Caunter,Bolivian,Florida,4,150077.96,8,219-41-8822
-80,Lib,Casero,American Indian,West Virginia,4,123676.77,4,240-63-7243
-81,Keven,Wynch,Lumbee,Hawaii,5,25975.75,3,668-12-8750
-82,Lewiss,Kline,Aleut,Indiana,0,32497.02,1,115-74-6875
-83,Masha,Shivlin,Samoan,Colorado,1,163114.18,2,126-91-8768
-84,Viki,Dunsford,Paraguayan,Colorado,2,113902.91,2,372-48-8692
-85,Maurie,Pirouet,Ute,Washington,4,137580.18,0,292-51-9269
-86,Noby,Lambert-Ciorwyn,Micronesian,California,5,24524.88,4,772-46-5288
-87,Harrie,Josskowitz,Samoan,Iowa,2,86686.43,0,538-77-1324
-88,Janeczka,Lugden,Melanesian,Georgia,3,136761.59,4,123-79-3381
-89,Inna,Pettingill,Osage,Washington,3,172644.45,10,844-92-4907
-90,Rheta,MacDwyer,Korean,Colorado,1,107254.74,4,574-81-8664
-91,Kay,Prescot,Honduran,Georgia,0,57415.89,9,407-38-2335
-92,Quincey,Cesconi,Yaqui,Florida,0,176422.98,10,195-96-7180
-93,Sloan,Trousdell,Chickasaw,Texas,4,37119.35,6,313-61-1883
-94,Fee,Planks,Indonesian,California,5,143039.89,3,671-66-0306
-95,Birgitta,Vice,Bolivian,California,5,31375.22,9,865-83-1872
-96,Liliane,Dwire,Paraguayan,Florida,0,130190.77,4,146-99-0527
-97,Jess,Mollon,Paiute,Florida,5,112081.33,4,600-91-8124
-98,Jermayne,Davall,Chilean,California,0,133504.38,8,711-54-2197
-99,Kacey,Birds,Indonesian,Connecticut,2,124286.58,9,866-33-4071
-100,Dodi,Sarjent,Iroquois,Texas,0,52865.62,10,500-56-6196
-101,Madella,Despenser,Native Hawaiian and Other Pacific Islander (NHPI),New York,1,70311.14,4,898-15-5800
-102,Keelia,Corrett,Delaware,Oregon,3,74775.18,7,643-33-0308
-103,Anestassia,Nelthrop,Indonesian,Ohio,1,12715.27,10,363-73-9625
-104,Meade,Ouldred,Colville,Pennsylvania,4,128504.77,5,562-39-9633
-105,Agnes,Smeaton,,,0,143627.15,5,699-77-1609
-106,Lyn,Smorthwaite,,,2,34941.29,5,419-84-8534
-107,Dinah,Odhams,Salvadoran,Indiana,1,55995.9,4,791-74-6699
-108,Rufe,Cleal,Ute,South Carolina,3,149726.82,10,792-86-4329
-109,Casandra,Davitashvili,Thai,Massachusetts,2,79718.83,9,661-91-8015
-110,Micheline,Trenam,Iroquois,Tennessee,0,158917.44,1,160-97-8391
-111,Evangelin,McMeeking,Comanche,Florida,5,141667.13,5,452-03-0158
-112,Sofia,Band,Seminole,North Carolina,4,105494.26,8,515-30-6334
-113,Brantley,Brodie,Choctaw,Colorado,2,62799.06,6,272-14-4678
-114,Serene,Spittall,Lumbee,Florida,0,41368.65,0,360-77-0830
-115,Pauletta,Bensen,,,1,21883.32,1,691-23-2290
-116,Normand,Fraczak,Tohono O'Odham,New York,1,95868.14,3,385-49-4527
-117,Mufinella,Rosoman,Comanche,New York,2,44590.92,0,119-57-4742
-118,Kathlin,Haslam,Thai,California,5,161916.83,9,379-79-2899
-119,Marge,Oris,Panamanian,New York,4,45228.42,10,815-58-7073
-120,Teddi,Beany,Bolivian,Texas,5,128687.26,9,315-37-4106
-121,Ahmed,Roulston,Samoan,Alabama,0,100889.74,6,563-05-4472
-122,Dexter,Trimme,Salvadoran,Louisiana,1,60343.95,1,521-25-0882
-123,Giffard,Farnaby,Osage,Wisconsin,0,113718.59,5,624-74-9035
-124,Darcie,Orteu,Venezuelan,California,1,52481.78,3,867-83-7085
-125,Jerry,Bynold,Puget Sound Salish,California,3,128885.21,8,563-95-8077
-126,Niko,Mintram,Mexican,Delaware,5,162135.38,9,482-44-9777
-127,Donny,Stansfield,Ottawa,Arkansas,5,73812.01,4,363-12-0582
-128,Reggie,Fernely,,,2,161219.0,4,768-21-8624
-129,Zaria,Sans,Central American,Texas,2,173272.68,7,395-07-3560
-130,Arden,Narducci,Hmong,Texas,5,75016.2,4,686-10-8205
-131,Konstantin,Trowsdale,Chamorro,Louisiana,5,160965.9,2,439-85-3262
-132,Annice,Marioneau,Houma,Texas,3,74330.75,0,391-66-2732
-133,Lorena,Clemencet,Creek,South Carolina,1,108585.41,6,862-23-9219
-134,Lonny,Saipy,Cambodian,North Carolina,1,138474.72,7,572-26-3692
-135,Shep,Merrilees,Chilean,Virginia,3,128134.22,6,145-48-6679
-136,Jerrie,Linneman,Native Hawaiian,Georgia,1,65199.62,10,375-54-0718
-137,Brnaby,Korneluk,Samoan,Oklahoma,2,11465.55,7,581-05-2776
-138,Willie,Jaggard,American Indian,New Mexico,5,82308.62,9,757-25-7940
-139,Pet,Lockett,Asian Indian,Texas,5,22111.12,5,610-41-6670
-140,Karalynn,Durbridge,Cuban,Illinois,0,99904.22,7,712-97-1554
-141,Rossy,Gravenor,Crow,New Mexico,1,35819.45,4,415-35-2607
-142,Britney,Pideon,Bolivian,California,2,98513.62,10,872-74-7664
-143,Lothaire,Gockeler,Yakama,California,3,161802.9,5,704-98-5596
-144,Daveta,Jacop,Chickasaw,Idaho,1,118428.89,4,824-53-7581
-145,Roi,Hackwell,Paraguayan,California,1,112977.61,3,609-06-0947
-146,Luce,MacGiany,Crow,California,4,31177.65,10,667-34-5134
-147,Jolyn,Mayte,Apache,California,5,167302.68,5,414-12-5875
-148,Veronike,Tanman,Kiowa,California,0,90481.09,8,298-11-5723
-149,Ahmed,Thomel,American Indian,New York,3,63806.24,0,161-05-3922
-150,Trace,Van Merwe,Costa Rican,Nevada,5,159482.92,5,615-42-3393
-151,Aime,Kantor,Colombian,Indiana,3,169318.61,4,753-98-9884
-152,Glenine,Hingeley,Shoshone,Louisiana,0,89926.2,1,430-67-0523
-153,Gabbi,Grimsdyke,Polynesian,Kentucky,3,102569.67,8,356-85-5960
-154,Evaleen,Jakeman,Japanese,Nevada,1,138126.65,5,614-38-4446
-155,Veda,Menilove,Peruvian,Alabama,3,43353.02,10,597-20-6742
-156,Doro,Zanazzi,,,1,79600.07,6,404-30-8975
-157,Kathryn,Eingerfield,Chilean,Washington,2,36147.22,7,180-49-3948
-158,Alf,Gillhespy,Comanche,Illinois,5,174872.08,8,643-82-4085
-159,Selie,Bosomworth,Chickasaw,Florida,2,102365.92,0,798-24-9854
-160,Darb,Axston,Japanese,Alabama,5,73805.08,3,760-51-1495
-161,Gus,Fawkes,Japanese,California,4,115380.69,10,870-64-9818
-162,Tobit,Romera,Malaysian,Texas,3,28652.91,2,544-02-8529
-163,Claudetta,Philpotts,Central American,New Mexico,1,43458.18,4,221-19-5850
-164,Ardyth,Squibbs,Yakama,California,4,172608.14,9,333-57-0802
-165,Ruthie,Silvermann,Paiute,Washington,3,25898.62,4,742-53-1869
-166,Jesse,Wassell,Polynesian,Pennsylvania,2,68423.32,6,412-18-0050
-167,Alys,Forsyth,Polynesian,Pennsylvania,1,18257.57,1,101-65-7692
-168,Christan,Furney,Cuban,Kentucky,0,70012.68,5,754-09-8382
-169,Emalia,O'Brien,Japanese,Arkansas,1,23537.24,9,450-91-8566
-170,Tiffani,Meneux,Bangladeshi,Virginia,0,178477.26,1,612-43-7890
-171,Olvan,Trewman,Korean,Alabama,3,59285.56,5,867-69-3722
-172,Tobe,Blaver,Colville,Minnesota,3,130475.02,6,142-81-1186
-173,Staford,Berdale,Japanese,Alabama,0,95952.91,4,281-12-1109
-174,Iseabal,Antrack,Asian Indian,West Virginia,4,22681.79,10,365-56-6786
-175,Natty,Berriman,Yakama,Ohio,3,147050.74,9,260-57-7003
-176,Miguel,Vibert,Tohono O'Odham,North Carolina,2,92603.9,8,785-57-2926
-177,Berk,Capon,Costa Rican,District of Columbia,2,78301.57,8,206-08-6176
-178,Maxim,Pinkerton,Spaniard,Florida,2,124890.72,0,595-68-4085
-179,Elayne,Goodboddy,Peruvian,Indiana,0,74338.65,4,148-64-4800
-180,Meredeth,Pallin,Argentinian,Colorado,4,150984.74,3,106-60-7947
-181,Allix,Wavish,Colombian,Virginia,5,99952.06,4,430-16-1257
-182,Basilio,Coutts,Panamanian,New Mexico,1,109655.66,4,639-10-1160
-183,Deonne,Borzone,Bangladeshi,New York,1,121851.54,4,649-09-0708
-184,Arturo,Mellodey,Navajo,New York,2,13807.87,6,269-01-7953
-185,Lane,Decourcy,Comanche,Florida,4,28039.12,0,639-37-1760
-186,Onofredo,Lewsy,,,4,53130.86,3,576-48-1269
-187,Ashlen,Robak,Yaqui,North Carolina,1,134105.86,2,539-19-8023
-188,Josey,Bassom,Puget Sound Salish,Pennsylvania,1,115542.09,9,532-47-1997
-189,Hilarius,Negal,Cree,Florida,4,35393.17,0,763-30-1358
-190,Smith,Rider,Bangladeshi,Texas,0,158422.69,5,221-54-3029
-191,Rici,Hellin,Apache,Texas,1,141421.0,4,168-31-4294
-192,Chad,Boreham,Yaqui,Pennsylvania,0,33948.45,2,781-69-6893
-193,Lev,Olcot,Paiute,New York,2,142738.37,10,398-33-3270
-194,Hildagarde,Botham,Yakama,Massachusetts,5,80199.31,6,313-76-2325
-195,Ty,Astbury,Asian,Georgia,3,162920.8,9,217-65-8390
-196,Teirtza,Jakoub,,,0,76760.8,6,531-88-0714
-197,Rycca,Dayce,Taiwanese,Minnesota,1,19910.81,2,864-18-8171
-198,York,Hundall,Vietnamese,Pennsylvania,1,164003.75,10,767-77-0196
-199,Angela,Emptage,Cree,Florida,3,157522.22,7,265-77-9233
-200,Emmott,Coggen,Asian,Alabama,2,148599.11,1,198-57-3727
-201,Aurlie,Mennithorp,Venezuelan,Georgia,4,98160.6,4,466-42-5938
-202,Aprilette,Weerdenburg,Sioux,Texas,5,135877.66,1,513-51-4957
-203,Karena,Greeno,Honduran,Pennsylvania,2,87282.4,8,651-59-7580
-204,Violetta,Hammerstone,Potawatomi,Illinois,3,167432.71,7,688-79-0854
-205,Jasmina,Mawtus,Japanese,Texas,5,151840.64,1,166-24-9644
-206,Janifer,Russe,American Indian,Ohio,3,41643.93,2,818-44-4178
-207,Cleopatra,Causley,Pakistani,Washington,1,51660.56,1,519-27-8466
-208,Othilie,Marconi,Cree,Illinois,5,52013.92,9,857-10-3364
-209,Hattie,Lattos,Yakama,Ohio,0,165814.11,7,119-19-0397
-210,Anica,Gail,Sioux,Washington,5,34000.09,4,728-73-6950
-211,Godwin,Martine,Spaniard,Georgia,5,30840.19,3,663-59-5018
-212,Eugene,De Vaan,Colombian,Florida,1,148229.85,4,790-87-1450
-213,Langston,Shoebotham,Navajo,Alabama,5,117382.98,7,353-53-0495
-214,Eadith,Shelton,Pueblo,Massachusetts,0,169707.95,0,314-58-0622
-215,Julianna,Osipenko,Guatemalan,Florida,0,121156.48,6,749-01-2214
-216,Jephthah,Kightly,Chickasaw,Wisconsin,0,48201.23,5,820-46-9325
-217,Nathanial,Tickner,Yakama,Utah,4,165846.35,1,588-14-1010
-218,Pearline,Carillo,Polynesian,Pennsylvania,0,58137.27,7,340-42-0308
-219,Gerhardt,Thandi,Apache,Delaware,0,11362.06,9,578-80-4324
-220,Diena,Hourican,Cuban,California,2,86780.69,4,734-67-0400
-221,Joyann,Gilmore,Kiowa,Wisconsin,1,147349.76,1,205-70-4639
-222,Hamid,Probyn,Polynesian,Massachusetts,5,46697.34,3,461-80-1075
-223,Annmaria,Ditch,Native Hawaiian and Other Pacific Islander (NHPI),California,2,18745.56,10,856-63-8602
-224,Alida,Annakin,Indonesian,Nebraska,0,55810.36,3,446-23-8301
-225,Aron,Tween,Eskimo,Rhode Island,4,74906.02,4,748-56-3881
-226,Buffy,Battey,Menominee,District of Columbia,5,37810.47,2,219-23-1577
-227,Rickert,Cowley,Yuman,California,0,54498.67,4,736-15-4301
-228,Desi,Wanell,Houma,Connecticut,1,56594.98,3,864-50-2454
-229,Abram,Bending,Taiwanese,Maryland,3,128437.87,2,573-14-0143
-230,Almeria,Youson,Honduran,Virginia,0,127371.05,0,544-24-4928
-231,Ellette,Cominello,Navajo,Texas,5,59139.67,0,815-96-9389
-232,Edmund,Querrard,Fijian,Missouri,2,19902.82,4,298-30-3395
-233,Hortensia,Bownas,Costa Rican,Ohio,1,168940.4,10,106-30-4401
-234,Zach,Kenner,Mexican,Alabama,2,123316.65,4,696-49-7154
-235,Dulciana,Collidge,Yakama,California,3,56899.1,4,824-09-3687
-236,Hartwell,McGillivrie,Alaska Native,Virginia,2,119324.44,4,268-79-4453
-237,Royal,Ridgway,Sioux,Colorado,4,25186.39,10,892-87-3505
-238,Gan,Fitzsymons,Delaware,Virginia,1,141715.21,6,658-14-9331
-239,Somerset,Linden,Comanche,Texas,1,140722.71,4,854-67-1541
-240,Emanuele,Walework,Cree,Illinois,1,117706.88,2,118-13-2606
-241,Benedict,Creelman,Salvadoran,North Carolina,5,96364.9,4,322-83-5320
-242,Melinde,Corwood,Laotian,Pennsylvania,1,62798.08,7,597-80-8654
-243,Wanda,Bleyman,Choctaw,Indiana,4,34002.76,10,290-92-9559
-244,Star,Press,Native Hawaiian,Virginia,0,52390.7,0,516-91-4385
-245,Merry,Vagges,Melanesian,Nevada,2,109619.61,3,749-67-6311
-246,Ashly,Cocklin,Uruguayan,Texas,0,156127.83,1,767-27-5795
-247,Mela,Molson,Bolivian,Florida,2,33288.11,0,837-80-3751
-248,Clementina,Dodamead,Native Hawaiian and Other Pacific Islander (NHPI),Pennsylvania,2,65135.32,1,769-58-0334
-249,Sigfrid,Giacomazzo,Yuman,Oklahoma,2,144562.37,1,798-60-4316
-250,Christiana,Espadas,Houma,Ohio,2,152350.33,8,107-26-8917
-251,Lilias,Morrel,Chippewa,District of Columbia,3,38373.35,10,276-76-8715
-252,Hubert,Durrand,Peruvian,Florida,4,142689.23,6,649-16-0067
-253,Shepperd,Reynard,Potawatomi,Florida,3,60120.75,9,274-28-6393
-254,Vallie,Greening,Menominee,Alabama,0,114637.26,10,551-53-6730
-255,Sheff,Ehlerding,,,0,140602.27,2,315-66-4528
-256,Chrysler,Ongin,Thai,Arizona,4,151105.67,4,868-68-7144
-257,Nady,Janout,Choctaw,Oregon,3,64528.9,6,606-57-2377
-258,Jeana,Saladino,Cheyenne,District of Columbia,2,44789.09,10,234-75-6632
-259,Sari,Schermick,Navajo,Tennessee,3,75615.09,7,444-79-6427
-260,Che,Tellenbach,Houma,Ohio,4,84365.79,7,826-77-4368
-261,Flemming,Evill,Vietnamese,Florida,4,50840.62,6,461-72-6583
-262,Rachel,Krzysztof,Polynesian,Kansas,0,113527.68,6,898-76-2373
-263,Zerk,Novacek,Chippewa,Utah,5,108312.32,4,355-42-6728
-264,Marjorie,Frackiewicz,Native Hawaiian and Other Pacific Islander (NHPI),Michigan,3,118848.0,9,236-15-2514
-265,Cody,Gunton,,,4,78025.52,1,633-87-8661
-266,Chrisy,Hentzer,Navajo,Washington,5,28877.23,8,687-45-2529
-267,Persis,Dike,Blackfeet,Texas,4,84612.89,6,858-95-2290
-268,Elaine,Ferneley,Sri Lankan,Virginia,0,91136.13,10,889-19-3931
-269,Cece,McAuliffe,Peruvian,Nevada,0,101789.5,3,319-43-6186
-270,Andie,Loftus,Honduran,Georgia,1,123511.01,3,651-01-7128
-271,Arabelle,Getcliff,Aleut,Georgia,4,10267.51,5,890-95-2477
-272,Jacques,Bickerdicke,Tlingit-Haida,Tennessee,3,85568.27,5,241-04-1900
-273,Belicia,Haimes,Chickasaw,Florida,5,27664.05,6,652-04-8785
-274,Mahala,Kerrich,Houma,Florida,2,79812.49,6,381-15-1839
-275,Abigale,Leeming,Choctaw,District of Columbia,5,166330.86,4,198-80-6634
-276,Vanni,O'Carmody,American Indian,Pennsylvania,2,99733.32,6,467-18-0365
-277,Scarlett,Pilcher,Crow,Ohio,4,66652.02,0,866-21-2009
-278,Inesita,Warton,Guamanian,South Carolina,5,107103.76,4,829-08-7988
-279,Vivianna,Karlsen,White,Illinois,3,98029.0,6,195-38-1737
-280,Putnam,Sugarman,Chippewa,Kentucky,0,37741.58,6,634-84-6463
-281,Kyrstin,Davies,Bangladeshi,Oregon,4,113675.09,4,721-80-6243
-282,Gwyneth,Gendrich,Chickasaw,Montana,5,39222.94,3,207-18-8643
-283,Corny,Leith-Harvey,Taiwanese,California,0,96794.71,5,167-08-9517
-284,Borden,Kerford,Panamanian,New York,3,15736.03,6,791-50-3819
-285,Ashlan,Yoakley,Panamanian,Pennsylvania,0,116930.45,9,474-33-3511
-286,Mindy,Stithe,Alaska Native,Virginia,5,140055.31,1,517-22-2746
-287,Orson,Jollye,,,4,105129.97,7,194-35-2682
-288,Norean,Flaune,Houma,West Virginia,2,113984.08,1,458-17-6115
-289,Boyd,Heck,Cheyenne,Ohio,3,125823.11,9,200-98-9745
-290,Cletis,Handscombe,Sri Lankan,Nevada,0,137891.21,10,234-38-6187
-291,Daryl,Croneen,Peruvian,Florida,5,29424.55,6,842-94-2974
-292,Kendrick,Bynold,Navajo,District of Columbia,3,142969.86,2,838-45-2288
-293,Freddy,de Keep,Mexican,Kentucky,2,137265.99,0,464-67-1787
-294,Othella,Tune,,,4,88389.07,4,668-14-7093
-295,Corenda,Verner,Colville,New York,5,125625.42,0,854-48-4270
-296,Hedwiga,Fist,Puget Sound Salish,Texas,3,155096.18,2,325-07-3441
-297,Berthe,Barnhill,Costa Rican,New York,1,118316.99,7,471-67-7647
-298,Cesya,Bras,Osage,Oklahoma,4,143010.09,8,614-39-9394
-299,Danna,Vamplew,Salvadoran,District of Columbia,0,49694.88,7,740-61-4803
-300,Glynnis,Mandrake,Tongan,Illinois,1,142559.91,6,812-68-7927
-301,Olia,Fridd,Polynesian,Kentucky,1,42931.29,5,794-52-0337
-302,Nikoletta,Devigne,Houma,Florida,0,61919.96,7,518-55-9421
-303,Patience,Drache,Cherokee,New York,4,27041.59,5,888-88-7547
-304,Cyrill,Mowen,Fijian,Illinois,0,164969.15,4,363-64-7617
-305,Brenden,Gossart,Dominican (Dominican Republic),New York,2,133984.83,6,109-23-4659
-306,Missy,Grichukhanov,Native Hawaiian and Other Pacific Islander (NHPI),Arkansas,2,132240.08,6,469-51-5941
-307,Ardelia,Orchard,Seminole,Texas,1,140819.61,4,384-64-9902
-308,Stern,Worling,Venezuelan,Louisiana,1,82071.24,2,880-09-7483
-309,Garold,McWard,Chilean,Washington,0,143654.86,9,803-84-2086
-310,Ebenezer,Whieldon,Chippewa,California,2,73407.11,1,136-77-8014
-311,Lonny,Conre,Venezuelan,District of Columbia,3,67893.27,5,366-32-7717
-312,Delbert,Heinschke,Indonesian,California,4,104976.66,5,504-18-5511
-313,Leontyne,Bisacre,Filipino,Alabama,1,100514.48,9,499-93-8022
-314,Sabra,Chavrin,Panamanian,Oklahoma,4,94639.37,5,240-23-9119
-315,Alyss,Basey,Sri Lankan,Texas,1,32518.32,5,315-49-8988
-316,Codie,Hurles,Ute,Texas,2,159301.95,5,269-64-0738
-317,Adolphe,Durand,South American,South Carolina,5,16963.59,6,653-59-8769
-318,Foss,Treace,Thai,Texas,4,39343.22,9,352-66-1652
-319,Rozina,Euplate,Tlingit-Haida,Nevada,3,13430.9,9,382-73-6283
-320,Antonino,Wolfer,Comanche,Tennessee,1,102768.7,3,669-44-8305
-321,Amelia,Albasiny,Sri Lankan,California,2,53229.53,10,640-61-1292
-322,Kirbee,Ricciardelli,Cuban,Colorado,5,35910.73,10,357-44-0433
-323,Susan,Stanborough,Ottawa,Ohio,1,144041.45,5,113-13-1125
-324,Joscelin,Voss,Korean,California,4,59402.51,2,320-67-5870
-325,Jemmy,Gavrieli,Cheyenne,Ohio,2,121986.57,6,456-67-3306
-326,Leanor,Beaulieu,Mexican,Texas,5,177593.72,10,814-68-5182
-327,Isador,Yankin,Fijian,Florida,5,111854.3,5,608-63-2716
-328,Georgeanne,Dearle-Palser,Alaskan Athabascan,Florida,4,105763.18,1,472-13-0826
-329,Klarrisa,Doyley,,,1,139924.59,6,440-96-3494
-330,Renata,Holttom,Pakistani,Florida,5,23703.04,4,105-89-3230
-331,Roscoe,Stuckey,Malaysian,New York,1,18393.29,6,240-81-5117
-332,Juditha,Rickhuss,,,4,25239.39,8,601-53-0179
-333,Claudio,Dowsing,,,1,69246.52,2,708-07-8276
-334,Fayina,Laslett,Salvadoran,Indiana,5,166343.0,4,575-60-6614
-335,Thomasa,Smoote,Japanese,Indiana,0,37036.93,3,311-31-5159
-336,Louis,Taplow,Iroquois,California,2,70589.66,6,331-63-8872
-337,Christiano,Pley,Spaniard,New York,3,28872.97,0,152-71-2377
-338,Patsy,McGlue,White,Colorado,5,66130.95,2,842-80-4328
-339,Doretta,Isacq,Tohono O'Odham,Ohio,2,139409.52,3,853-79-6721
-340,Preston,McCrudden,Puerto Rican,California,1,55412.47,9,789-41-5583
-341,Blithe,Drivers,Alaska Native,Connecticut,5,122984.31,0,284-15-7471
-342,Anne-marie,Besse,Delaware,Pennsylvania,1,143774.88,7,549-30-8577
-343,Elisha,Keatley,American Indian and Alaska Native (AIAN),Minnesota,0,171296.5,8,550-98-4073
-344,Flossy,Topley,Polynesian,New York,3,43534.42,7,787-75-0528
-345,Efrem,Bewlie,Potawatomi,California,3,156905.22,10,632-63-0462
-346,Oliver,Cristofol,Korean,Oklahoma,2,133916.62,9,318-35-8170
-347,Hayden,Mordecai,Iroquois,California,1,92358.81,10,218-56-5265
-348,Daveta,Dregan,Asian,Louisiana,5,107501.56,6,537-89-2462
-349,Bil,MacCole,Paraguayan,Montana,3,129102.9,1,223-01-8191
-350,Stephen,Sorrell,Tlingit-Haida,Kansas,4,141056.67,8,135-25-6011
-351,Kikelia,Garnsworth,Colombian,California,0,126152.0,7,773-72-5139
-352,Saleem,Royden,Yakama,District of Columbia,4,97115.13,9,818-92-0762
-353,Flory,Fender,Filipino,Oregon,4,159335.95,3,260-75-3011
-354,Olva,Freathy,Polynesian,Minnesota,1,39104.84,8,876-05-4005
-355,Chas,Maplethorpe,Seminole,Pennsylvania,4,62153.0,4,448-65-0805
-356,Ansell,Vamplers,Blackfeet,District of Columbia,4,101318.11,3,375-10-9171
-357,Hedi,Defty,Central American,North Dakota,4,62909.96,1,350-05-5669
-358,Nessa,Pollastrone,,,5,58031.19,9,889-77-8467
-359,Mathilda,Killich,Comanche,California,4,38884.06,1,893-87-7992
-360,Ivonne,Gumby,Guatemalan,Pennsylvania,0,113568.41,0,418-43-7621
-361,Roselia,McCathy,White,Maryland,0,24360.83,1,329-99-4864
-362,Kevin,Furmedge,,,1,50018.48,1,575-39-5999
-363,Frazier,Jermy,Uruguayan,Louisiana,2,89316.31,6,461-10-1064
-364,Jessika,Cowles,Argentinian,Illinois,4,130366.5,2,608-39-1303
-365,Ronna,Jamson,Native Hawaiian,Texas,5,159417.9,5,845-18-7864
-366,Jenelle,Itzkovici,Lumbee,Virginia,5,80056.2,6,674-30-6939
-367,Becky,Akaster,Sri Lankan,California,5,53869.53,10,680-73-6919
-368,Mendy,Jansey,Sioux,California,1,83383.28,9,209-94-9387
-369,Danila,Bradtke,Dominican (Dominican Republic),Connecticut,4,120348.87,0,495-86-8907
-370,Tulley,Boxer,Bolivian,Texas,2,111793.14,10,762-60-8977
-371,Kelvin,Rittmeier,Venezuelan,Utah,3,148099.0,1,419-36-0001
-372,Vance,Deinhardt,Comanche,Florida,0,102853.7,8,519-35-3924
-373,Humphrey,Jackes,,,3,123905.85,3,423-31-9556
-374,Corette,Trevon,Tohono O'Odham,Connecticut,4,154954.37,9,350-87-9285
-375,Carlin,Spelling,Tlingit-Haida,Arizona,5,160577.81,7,353-57-5383
-376,Geri,Hindhaugh,Uruguayan,Massachusetts,3,71774.12,5,233-81-6516
-377,Melantha,Espadero,Navajo,California,2,71661.94,10,236-30-3782
-378,Agnella,Hadland,Alaskan Athabascan,California,3,112075.96,1,267-01-4786
-379,Rani,Edmonson,Ute,Colorado,1,46076.13,2,457-89-0859
-380,Raven,Simpkins,Korean,Kansas,5,18323.53,7,251-15-0985
-381,Mitzi,Cogger,Paraguayan,Texas,0,56526.07,9,816-54-3780
-382,Cyb,Christopherson,American Indian and Alaska Native (AIAN),Washington,2,131605.54,0,252-95-4011
-383,Matt,Dimond,Uruguayan,California,2,149712.05,6,879-35-4209
-384,Pearl,Bryett,Honduran,Florida,0,99402.62,3,533-21-8797
-385,Paten,Harmston,Tongan,Texas,0,79257.41,4,591-64-8153
-386,Ingaberg,Whyberd,Chickasaw,South Carolina,2,104073.27,0,167-49-6081
-387,Ellene,Frangione,Black or African American,Pennsylvania,3,129448.66,9,710-68-8757
-388,Claudie,Gilhouley,Honduran,Washington,1,61493.28,1,852-78-0108
-389,Regan,Hazzard,Iroquois,California,4,62319.17,0,643-91-9800
-390,Korrie,Chellenham,Nicaraguan,California,1,39593.59,4,369-32-1126
-391,Cordi,Showalter,,,1,146045.08,8,719-04-3520
-392,Stacee,Guilloneau,Cherokee,California,1,125581.99,0,498-01-2481
-393,Theodosia,Sifflett,Menominee,District of Columbia,1,122666.41,2,884-33-7004
-394,Selie,O'Bruen,Japanese,California,1,93085.79,4,601-50-5516
-395,Blithe,Gossling,Japanese,District of Columbia,1,35786.95,4,396-74-0189
-396,Greg,Quantrell,Taiwanese,Nevada,1,84504.82,9,105-59-1049
-397,Chelsea,Stannering,Peruvian,Texas,3,64727.38,2,664-89-8168
-398,Claresta,DelaField,Venezuelan,New York,5,13152.12,2,884-87-5625
-399,Jerrie,Cust,Venezuelan,Massachusetts,0,91973.04,0,399-72-3467
-400,Lowe,Jeune,Colville,Texas,2,170286.52,2,777-66-3292
-401,Bay,Proom,Native Hawaiian,Florida,5,115561.73,7,584-23-7586
-402,Stephannie,Finlater,Puget Sound Salish,Oklahoma,4,178830.0,2,769-29-2104
-403,Fidela,Oakeby,Fijian,Iowa,4,25555.68,7,301-55-9522
-404,Candra,Rutgers,Kiowa,Nebraska,0,110976.45,5,626-09-0607
-405,Jessamine,Richly,Cherokee,California,5,46518.34,2,207-79-2279
-406,Noel,Kasbye,Melanesian,New York,0,94626.01,8,440-55-8491
-407,Frederick,Barkaway,Filipino,Texas,4,87146.74,1,359-92-2553
-408,Renaud,Daughtry,Panamanian,Tennessee,0,102707.23,1,757-06-5379
-409,Tybie,Burdekin,Central American,California,1,104676.98,1,485-86-2585
-410,Giacobo,Barnsdall,,,2,178785.08,5,133-16-6221
-411,Lonni,Calleja,Polynesian,Minnesota,0,102318.18,4,191-77-0656
-412,Jacquetta,Gilbank,Guamanian,Texas,1,17247.74,7,121-07-4375
-413,Blanche,Acheson,Puerto Rican,Missouri,1,20539.72,1,445-99-3734
-414,Imelda,Neiland,Lumbee,Ohio,3,136005.71,9,426-64-5350
-415,Alfi,Piechnik,Guamanian,Virginia,2,110231.05,10,864-88-9165
-416,Elvina,Millard,Delaware,Nevada,4,64240.8,3,319-88-4676
-417,Estelle,Tighe,Colville,Florida,2,114740.38,2,613-69-5524
-418,Nananne,Altoft,Thai,Colorado,0,100736.64,3,867-86-3797
-419,Waylin,Allardyce,Delaware,Ohio,1,50402.2,10,449-38-2103
-420,Krissy,Pinchback,Tongan,Tennessee,5,119237.81,1,744-72-5405
-421,Clem,Jolland,Ecuadorian,Oklahoma,0,166140.83,2,371-57-2534
-422,Shae,Myers,Indonesian,Texas,5,134139.78,6,466-53-2916
-423,Merla,MacCaughan,,,4,156891.91,2,895-68-2360
-424,Riccardo,Trappe,Pakistani,Texas,5,27719.82,3,663-73-2592
-425,Toma,Gadney,Argentinian,California,3,74560.13,0,780-73-4101
-426,Prinz,Coggeshall,Apache,Alabama,5,56201.77,5,884-85-5698
-427,Ninnetta,Isacke,Cambodian,California,0,94450.26,3,739-81-1062
-428,Kendell,Innett,Taiwanese,Virginia,1,47477.07,6,618-93-8942
-429,Bibbie,Alexandre,Native Hawaiian,West Virginia,4,85036.08,7,181-58-1952
-430,Guglielmo,Orgen,Shoshone,North Carolina,1,162828.31,8,327-15-5444
-431,Layton,Mitchard,Shoshone,Michigan,5,16869.36,0,648-49-4165
-432,Edwina,Allard,Nicaraguan,Colorado,4,110547.19,2,272-96-8984
-433,Tibold,Saffin,Colville,Kansas,2,173646.79,2,306-41-5044
-434,Brande,Byers,Paiute,Texas,2,145385.49,10,542-21-2667
-435,Rooney,Breens,Melanesian,Texas,4,59697.45,8,163-69-4458
-436,Orelia,Lohering,Paiute,Nevada,0,34543.86,9,656-81-4965
-437,Rudolfo,Eilhermann,,,5,108104.69,0,689-32-5770
-438,Marina,Boylund,Native Hawaiian,California,5,118461.37,3,204-75-4925
-439,Dasi,Midner,Chippewa,Maryland,1,97893.35,9,882-97-5334
-440,Corliss,Swalteridge,Tlingit-Haida,Minnesota,3,59218.35,7,652-53-4392
-441,Braden,Hevner,Peruvian,Missouri,0,133737.23,7,763-90-9156
-442,Mikey,Sturte,Mexican,District of Columbia,2,56237.39,1,556-56-6526
-443,Ariela,Dunstan,American Indian and Alaska Native (AIAN),Texas,0,79542.99,6,405-07-0491
-444,Chucho,Solano,Bangladeshi,Alabama,1,147050.37,3,711-40-9086
-445,Teena,Mee,Alaskan Athabascan,Massachusetts,2,33296.55,3,374-37-4640
-446,Dareen,Peascod,Blackfeet,Arizona,3,19797.19,5,881-37-9806
-447,Amalia,Piddocke,Korean,Pennsylvania,0,122548.99,7,393-37-1595
-448,Tedmund,Valentino,Uruguayan,Illinois,3,82782.0,5,750-80-6571
-449,Linc,Manach,Tlingit-Haida,Florida,0,165951.97,7,492-62-1378
-450,Lisetta,Berridge,Chilean,Texas,0,154721.44,1,669-47-1897
-451,Nanice,Piatkowski,Houma,California,5,66990.06,5,383-45-6693
-452,Ericka,Durtnel,Yakama,Pennsylvania,3,148116.25,6,634-42-9683
-453,Adlai,Clopton,Comanche,California,4,75181.09,4,246-39-1944
-454,Gladi,Gumb,Malaysian,Maryland,4,87712.03,8,168-78-0731
-455,Nyssa,Kinney,Puerto Rican,District of Columbia,2,37569.32,10,374-78-9149
-456,Burnard,Hacksby,Pueblo,Idaho,1,86552.0,10,738-36-2685
-457,Baudoin,Beamont,Tlingit-Haida,Michigan,1,45518.31,9,231-91-8605
-458,Berrie,Mildner,Taiwanese,Indiana,5,63570.05,5,657-22-9609
-459,Meagan,Zoephel,Aleut,Colorado,5,122485.99,7,509-65-0185
-460,Bonnibelle,Veneur,Fijian,Georgia,1,104285.02,1,169-02-1610
-461,Averil,Middell,Chippewa,Missouri,5,91253.46,7,453-40-3111
-462,Doralyn,Morse,Native Hawaiian and Other Pacific Islander (NHPI),Texas,1,60275.55,0,354-56-6095
-463,Tristam,Beadnell,Native Hawaiian and Other Pacific Islander (NHPI),Kentucky,4,22579.93,7,847-38-1579
-464,Valencia,Hinkley,Blackfeet,New York,3,139208.24,5,247-57-9110
-465,Jazmin,Hurcombe,Indonesian,Tennessee,0,37345.27,2,241-06-7736
-466,Rogers,Ruggs,Dominican (Dominican Republic),Kentucky,1,96167.89,9,308-63-1622
-467,Jerad,Goudge,Honduran,Arizona,5,179337.37,5,842-60-0908
-468,Melisande,Woltman,Indonesian,Arizona,4,21802.66,9,635-50-9312
-469,Livvyy,Duiguid,Black or African American,North Carolina,2,108998.65,6,664-65-9623
-470,Fidelio,MacCartan,Sioux,Florida,4,41600.86,1,488-90-0536
-471,Jacques,Shiel,Costa Rican,Virginia,3,135008.39,0,803-91-3153
-472,Zachery,Johnke,Yakama,Texas,2,179661.65,3,149-46-5354
-473,Tanner,Askell,Native Hawaiian and Other Pacific Islander (NHPI),Texas,4,40358.42,7,424-76-4959
-474,Aurel,Lassen,Micronesian,Virginia,4,64941.2,9,159-41-4041
-475,Iago,Thomann,Yaqui,New York,2,41650.86,7,247-44-9558
-476,Ola,Dodd,Honduran,Nevada,5,139866.52,1,884-91-2907
-477,Cindy,Janisson,Alaskan Athabascan,California,4,151879.88,2,239-79-5291
-478,Krissie,Twidle,Venezuelan,Florida,1,110466.85,0,794-54-7117
-479,Lindon,Shera,Yaqui,Georgia,0,164455.67,9,718-27-8908
-480,Byron,Wordley,Taiwanese,Florida,5,29721.44,5,341-49-9103
-481,Egan,Harlowe,Peruvian,California,4,32429.27,9,889-34-2801
-482,Nehemiah,Leander,Puerto Rican,Missouri,2,102974.86,3,765-09-1798
-483,Clerc,Gilhouley,Sri Lankan,District of Columbia,2,170814.76,0,778-93-8175
-484,Bryan,Oxe,Chilean,California,2,86282.89,8,887-18-6857
-485,Carolee,Brader,Sri Lankan,Texas,3,79020.33,0,748-34-3711
-486,Julius,Nesbeth,,,5,84320.88,7,643-25-7212
-487,Callie,Fane,Taiwanese,South Carolina,3,139212.62,10,121-42-9084
-488,Ronnie,Abley,Argentinian,Indiana,3,171299.4,6,750-29-8960
-489,Willabella,Pendred,Uruguayan,Massachusetts,0,133927.11,7,842-73-2247
-490,Veronica,Sinkin,Cuban,Mississippi,2,111431.83,2,413-90-9248
-491,Gearard,Slaughter,Mexican,Missouri,5,37949.53,8,581-56-7620
-492,Ferdie,Bourbon,Crow,Kansas,1,33402.95,2,571-78-4728
-493,Clevey,Lander,Cheyenne,New York,4,90298.01,2,149-42-8860
-494,Pate,Henfre,Venezuelan,California,4,167085.18,9,368-34-8442
-495,Charley,Townley,Nicaraguan,New York,5,112500.45,5,443-87-2612
-496,Huntlee,Lassetter,Cheyenne,Alabama,5,147297.65,10,129-09-2730
-497,Poul,Wilcott,Honduran,Texas,1,17394.42,1,734-75-9573
-498,Eva,Cominello,Eskimo,Texas,3,53153.49,1,138-71-1711
-499,Daryl,Aizikovitz,Choctaw,California,5,133726.76,10,858-90-2436
-500,Clari,Gerrard,,,4,26725.58,0,845-11-7843
-501,Karlotte,Cusworth,Ecuadorian,North Carolina,4,163093.4,10,603-58-5305
-502,Ignacius,Farrow,Hmong,California,2,129558.17,6,760-34-8075
-503,Latia,Coughtrey,White,California,3,25910.81,5,747-15-8264
-504,Aubry,Dorricott,Apache,New York,3,38016.8,3,626-66-8712
-505,Margot,Lackie,Yuman,Minnesota,0,93721.56,8,879-20-5912
-506,Enoch,Steadman,White,Texas,0,20304.82,5,447-13-2999
-507,Henry,Folli,Malaysian,Texas,0,147110.28,1,322-30-9747
-508,Olav,Smitton,Puget Sound Salish,Arizona,0,114359.06,5,803-71-9789
-509,Aylmar,Somerfield,,,4,141004.7,3,548-25-6801
-510,Robinet,Bettanay,Eskimo,Washington,4,27018.55,4,311-32-5968
-511,Clarice,Szapiro,Paraguayan,Pennsylvania,4,124922.69,6,416-06-1813
-512,Kasper,Clubbe,Tohono O'Odham,Virginia,2,137859.5,5,780-65-7195
-513,Evin,Ickowics,Hmong,California,4,41222.39,3,754-84-9334
-514,Lilli,Shallo,Chinese,New York,1,133236.71,4,609-08-8604
-515,Kathrine,Jessel,Pima,South Dakota,5,109713.71,8,664-41-5982
-516,Minette,Westrey,Vietnamese,Oklahoma,5,167481.59,6,836-62-8538
-517,Alan,Shillam,Cambodian,Arizona,1,53806.75,2,792-51-6111
-518,Meta,Dronsfield,,,2,85611.53,6,226-77-0899
-519,Joann,Cottrell,Salvadoran,District of Columbia,5,105252.4,4,871-75-3630
-520,Mommy,Cappel,,,5,122508.24,1,714-77-8348
-521,Kin,Boichat,Pima,California,4,95192.54,0,188-49-3109
-522,Ilario,Libermore,Central American,North Carolina,1,34068.97,9,311-79-6092
-523,Chaim,Gudde,Argentinian,North Carolina,0,115021.16,8,276-68-9533
-524,Casi,Isaacs,Yakama,Maryland,1,28829.0,2,407-24-9161
-525,Hammad,Waddington,Korean,New York,4,51040.26,1,537-36-9405
-526,Tandi,Impey,Yakama,Alabama,2,83527.22,2,184-13-4190
-527,Jeddy,Jakubovits,Pakistani,Florida,1,75970.25,8,145-02-1672
-528,Carolynn,Teffrey,,,2,87619.82,1,389-31-4888
-529,Hally,Sheehan,Malaysian,Texas,1,36650.17,5,206-42-6447
-530,Heriberto,Shorey,Tongan,Oklahoma,2,146573.63,7,665-81-4232
-531,Ignacius,Arnke,American Indian,Minnesota,5,163821.0,1,557-54-8357
-532,Karen,Heater,Yaqui,Oklahoma,5,115005.77,8,798-95-9669
-533,Dulsea,MacQuarrie,Shoshone,Florida,2,132815.31,3,393-72-0416
-534,Faythe,Lie,Sioux,Arkansas,5,45809.01,1,423-48-9181
-535,Bryna,St. Hill,Vietnamese,Oregon,2,104422.01,6,486-22-1926
-536,Merwin,Lydster,Malaysian,Oregon,0,50606.69,4,716-87-8616
-537,Kimberlyn,Naden,Dominican (Dominican Republic),Georgia,2,169956.07,3,190-70-7249
-538,Freddy,Slesser,Choctaw,California,0,119795.23,2,282-52-9963
-539,Johny,Cheeke,Sioux,Kansas,5,60929.97,7,161-47-4621
-540,Ronnica,Castagnaro,Ottawa,Colorado,2,174300.86,2,599-91-8620
-541,Nettle,Wyant,Cuban,New Jersey,3,142406.63,6,121-81-8426
-542,Sharleen,Triswell,Pima,North Carolina,0,114105.0,5,782-08-3016
-543,Lotte,Hemshall,Cuban,North Carolina,4,63297.94,9,600-53-9268
-544,Ara,Beever,Micronesian,Nebraska,3,88128.45,1,663-69-9843
-545,Tori,Northgraves,Kiowa,Utah,1,160561.04,10,178-26-9605
-546,Alanah,Rowney,Black or African American,Colorado,4,42663.59,8,190-47-5760
-547,Shirlene,Varfalameev,Yakama,Virginia,1,13578.75,8,418-17-4473
-548,Elna,Le Bosse,Shoshone,District of Columbia,2,53697.56,8,669-54-0724
-549,Marney,Thams,Native Hawaiian and Other Pacific Islander (NHPI),California,5,175173.26,6,526-01-6694
-550,Iosep,Sally,Asian,District of Columbia,4,117955.9,5,701-35-5629
-551,Devy,Bourke,Cuban,California,5,121192.8,1,101-73-8710
-552,Stacia,Bytheway,Thai,Minnesota,5,106149.15,8,427-64-7347
-553,Shanta,Gurnett,Mexican,New York,4,165751.32,8,742-86-5121
-554,Maurine,McRoberts,Vietnamese,Georgia,0,101422.43,2,656-99-3444
-555,Kris,Ryle,Colville,Massachusetts,4,51819.05,8,558-41-2798
-556,Welby,Faunt,,,1,114934.11,0,806-55-1699
-557,Adrianna,Brandacci,Nicaraguan,Texas,2,131835.49,10,417-76-3433
-558,Monroe,Eingerfield,Yaqui,Utah,2,83879.77,4,409-62-3059
-559,Rafferty,Toler,Creek,North Carolina,4,72396.77,2,418-34-7606
-560,Rafa,Alberts,Menominee,North Carolina,2,46239.99,6,183-66-1159
-561,Burty,Knotte,Thai,Wisconsin,4,140444.76,2,134-39-3912
-562,Miguela,Kubach,Ute,North Carolina,2,172857.07,7,336-76-5328
-563,Grant,Calderbank,Lumbee,Pennsylvania,1,55826.64,8,877-09-1378
-564,Merna,Cutchie,Chilean,West Virginia,1,104485.74,5,221-98-4842
-565,Hetty,Riha,Nicaraguan,Oklahoma,3,174677.72,7,845-08-6825
-566,Oona,McCallum,Alaskan Athabascan,Texas,5,20789.44,10,263-42-0100
-567,Irina,Agg,Kiowa,Wisconsin,5,146168.01,7,575-28-0670
-568,Ammamaria,Worpole,Polynesian,California,2,146433.63,4,828-58-0158
-569,Avrom,MacCafferky,White,Florida,5,18388.12,0,285-63-5386
-570,Dory,Aylesbury,Yaqui,District of Columbia,0,160181.71,4,197-99-4013
-571,Fredericka,Ortner,Central American,Texas,1,173064.45,9,115-86-3030
-572,Lalo,Whiffin,Cree,Florida,5,123456.84,2,515-50-3093
-573,Nancey,Orrum,Puerto Rican,California,4,174804.98,0,216-64-9079
-574,Brod,O'Fergus,Asian,West Virginia,1,108566.51,10,858-24-0527
-575,Walton,Hindshaw,Pueblo,Colorado,3,35586.28,3,884-08-7404
-576,Dougie,Callington,Chippewa,California,2,106440.44,5,501-68-4107
-577,Krissie,Normavell,Native Hawaiian,California,3,58997.73,5,132-74-6967
-578,Alysia,Ethelston,Lumbee,Pennsylvania,2,10018.06,0,550-49-0689
-579,Ward,Marrison,Costa Rican,California,2,116080.89,6,476-01-4703
-580,Isabel,Reffe,Uruguayan,California,2,164546.99,6,149-80-1736
-581,Daile,McAlinion,Cherokee,Illinois,3,86180.45,3,892-10-2422
-582,Joye,Nelhams,Yakama,New York,2,164680.87,3,602-35-4663
-583,Tillie,Attwell,Colombian,Florida,4,121858.43,2,116-99-8435
-584,Loydie,Ong,Puget Sound Salish,Indiana,4,174055.44,3,216-12-8430
-585,Lucian,Slany,Navajo,Ohio,2,17014.84,6,452-63-5768
-586,Hamid,Freckelton,Yakama,Virginia,4,126208.09,3,588-65-5107
-587,Livia,Billo,Panamanian,Florida,2,179004.77,6,832-93-5504
-588,Neysa,Remer,Dominican (Dominican Republic),California,0,175716.94,8,160-99-5221
-589,Morganica,Swanbourne,Cuban,Pennsylvania,4,179167.92,9,543-57-8605
-590,Ambrosio,Loughman,Salvadoran,Ohio,2,46465.9,6,883-13-6857
-591,Hobart,Parnall,,,5,110446.83,3,421-27-0679
-592,Esme,Pelham,Native Hawaiian,Michigan,5,166615.61,9,604-50-5465
-593,Tory,Halstead,American Indian,Texas,2,68497.9,4,702-12-8487
-594,Larisa,Ledward,Colombian,New Hampshire,4,126177.31,5,841-77-4581
-595,Oren,Milan,Chickasaw,California,2,138779.13,6,729-45-7987
-596,Nat,Smeeth,Vietnamese,California,2,15107.62,5,813-11-6057
-597,Adi,McJarrow,Pueblo,Georgia,4,91866.05,2,289-26-7330
-598,Redford,Spaughton,Ecuadorian,Arizona,5,177890.0,8,795-62-5934
-599,Thibaut,Lazell,Peruvian,New York,4,72953.79,2,833-70-7932
-600,Florenza,Crowley,Peruvian,Pennsylvania,1,26503.79,2,704-73-1781
-601,Alexandrina,Phonix,Latin American Indian,Texas,1,64795.85,5,425-64-8948
-602,Charmian,Fulkes,Yaqui,Illinois,3,115172.1,7,432-82-6626
-603,Bellanca,Comiskey,Cree,Arkansas,1,22337.07,7,799-61-5285
-604,Thibaut,Bremen,Guamanian,California,1,167318.67,5,846-89-4343
-605,Melloney,Greenall,Mexican,Minnesota,2,155163.98,3,160-10-5159
-606,Curr,Gland,Melanesian,North Carolina,5,92040.72,4,543-15-8209
-607,Felike,Raisbeck,Sri Lankan,Louisiana,1,138051.72,0,791-03-5350
-608,Cris,Suett,Eskimo,California,1,52929.3,4,556-29-9885
-609,Ree,Camilletti,Paiute,Missouri,0,30952.54,8,728-52-2614
-610,Jae,Schimon,Peruvian,New York,2,61545.3,3,885-35-8945
-611,Ulla,Yitzhakov,Blackfeet,Nevada,5,37874.38,8,390-06-4032
-612,Daren,Grimwood,Malaysian,Indiana,3,61894.1,1,151-50-7533
-613,Ferdinand,Dady,Thai,Hawaii,1,123090.86,1,671-01-0362
-614,Zahara,Evett,Crow,Arizona,1,46020.8,1,577-62-6438
-615,Bathsheba,Corker,Alaska Native,Pennsylvania,5,145965.92,10,899-34-4068
-616,Allegra,d' Elboux,Puget Sound Salish,New York,4,125651.73,8,164-38-5614
-617,Aubine,Reinbech,Polynesian,Virginia,2,135176.7,6,186-18-3571
-618,Eadie,Bevis,Chinese,New York,3,39657.56,9,819-83-8712
-619,Harriot,Astbury,Panamanian,New York,2,48614.11,8,391-69-2048
-620,Dulcine,Tollow,,,2,124331.97,2,583-84-4620
-621,Gunilla,Brashaw,Costa Rican,Wisconsin,2,130611.35,7,238-99-1548
-622,Andros,Saynor,Argentinian,Florida,0,30615.91,4,554-47-6770
-623,Ania,Glisane,Bangladeshi,Pennsylvania,5,41166.57,3,855-79-2508
-624,Rosanne,Sargant,Laotian,California,4,65773.77,6,220-87-7849
-625,Josey,Leppard,Shoshone,Michigan,3,25410.57,4,636-63-1550
-626,Leoine,Camock,Polynesian,Minnesota,4,83091.73,3,749-19-6920
-627,Orren,Vida,Alaskan Athabascan,Georgia,4,119670.17,6,627-51-1698
-628,Louella,Gillanders,Chinese,Texas,5,66921.67,8,746-83-8738
-629,Mirabel,Djakovic,Chamorro,District of Columbia,3,89501.47,1,398-25-3785
-630,Engelbert,Jacques,Cree,Maryland,1,30757.31,5,140-13-5522
-631,Verna,Gonoude,Samoan,Minnesota,0,128262.64,8,162-18-9011
-632,Don,Illingsworth,Paraguayan,California,5,34420.73,5,410-56-7258
-633,Ronny,Deshorts,Creek,North Carolina,3,43697.41,5,434-97-2998
-634,Kermit,Caddy,Guatemalan,Virginia,3,141903.41,7,670-12-6387
-635,Raphaela,Chipping,Panamanian,Alabama,5,60738.28,2,430-03-7013
-636,Rora,Heel,South American,Minnesota,5,127979.46,3,492-40-6115
-637,Roseanna,Becconsall,Yuman,Texas,0,104992.59,5,347-79-0139
-638,Dall,McLaren,Ute,Virginia,4,57222.9,10,741-03-9341
-639,Theodosia,Grevel,Taiwanese,Virginia,3,133521.74,8,131-80-8204
-640,Standford,Killigrew,,,4,107979.56,7,626-42-7130
-641,Vernice,Daymond,Yakama,Virginia,3,90574.53,5,826-39-0986
-642,Sandra,Joanaud,Indonesian,Missouri,2,25820.29,1,529-63-6249
-643,Valentine,Pearsall,Filipino,Florida,0,175892.02,7,427-39-1029
-644,Imogene,Grim,Potawatomi,Florida,0,170538.23,8,704-79-4927
-645,Jeffrey,Piotrkowski,Black or African American,Ohio,0,85343.46,7,782-50-4136
-646,Monro,Leadbitter,Puerto Rican,Maryland,5,38662.23,9,157-44-2998
-647,Elisa,Panchen,Venezuelan,Ohio,0,18573.15,9,844-38-3533
-648,Pernell,Gullifant,Peruvian,Virginia,0,155099.62,7,511-11-0142
-649,Millisent,Bourley,Samoan,West Virginia,0,122290.78,4,471-41-7422
-650,Renelle,Feldharker,Seminole,Nebraska,3,30430.91,1,780-81-8944
-651,Barry,Axleby,Korean,Florida,3,23814.21,5,849-94-6920
-652,Stanislaus,Meindl,Yakama,Texas,0,96902.88,10,321-56-5444
-653,Kincaid,Shevlin,Panamanian,Florida,4,28119.45,0,386-74-3740
-654,Magdaia,Train,,,3,48834.16,3,860-36-4231
-655,Florencia,Gislebert,Ottawa,Florida,1,75317.72,7,332-43-3594
-656,Tiphany,Baily,Korean,Minnesota,0,131880.57,10,580-51-4021
-657,Buffy,Halsall,Argentinian,California,3,109030.52,8,706-59-3324
-658,Idette,Clashe,Honduran,Texas,1,170751.86,5,877-68-0053
-659,Richmond,Possa,Houma,Utah,1,113399.79,6,181-72-2298
-660,Del,Benedyktowicz,Ute,Oregon,1,166872.98,2,510-81-4183
-661,Lionello,Atkins,Uruguayan,New York,3,128886.88,6,696-26-1388
-662,Armin,Carlson,American Indian and Alaska Native (AIAN),Nevada,3,21452.84,3,138-08-7846
-663,Herold,Bartoszinski,Polynesian,Florida,2,23857.99,2,847-64-0892
-664,Ginnifer,Redish,Korean,Michigan,5,105512.86,2,489-35-2999
-665,Pincus,Feacham,Native Hawaiian,New York,2,91618.26,6,838-02-8228
-666,Horatius,Corps,Chamorro,Iowa,3,87728.39,4,566-07-5118
-667,Murray,Kinnon,Aleut,Nevada,5,63256.75,3,645-91-0715
-668,Manon,Heatherington,Puerto Rican,Connecticut,5,120060.34,3,462-93-8432
-669,Stacee,Carstairs,Lumbee,Missouri,2,76910.8,9,558-90-2506
-670,Codi,Mapplebeck,Honduran,Maine,2,65268.33,10,694-78-0932
-671,Bonnie,Assante,Menominee,Virginia,3,84474.04,10,302-48-4633
-672,Charlene,Arnoldi,Panamanian,Pennsylvania,0,83190.36,2,789-84-9047
-673,Herbie,Dart,Houma,California,3,133238.38,10,452-30-1098
-674,Bryce,Wilmut,Spaniard,New York,3,47516.78,2,590-88-6519
-675,Delano,Cammidge,Puerto Rican,New Jersey,0,27552.7,7,446-34-4119
-676,Ramon,Holhouse,Micronesian,New York,0,162503.99,0,739-14-8378
-677,Rolland,Glasson,American Indian and Alaska Native (AIAN),South Carolina,0,140757.93,8,143-47-4801
-678,Christine,Heyfield,Thai,New York,3,54147.55,1,670-30-1131
-679,Herve,Goadbie,Shoshone,Indiana,0,61849.48,10,433-37-9867
-680,Vern,Philpots,Apache,Virginia,3,23734.34,9,406-83-7716
-681,Sidnee,Meyer,Puget Sound Salish,Maryland,0,107922.95,4,696-95-8809
-682,Arlan,Mattevi,Colombian,District of Columbia,5,34708.73,1,801-49-2493
-683,Cally,McGinley,Blackfeet,Arizona,5,151673.92,3,440-86-6068
-684,Jeane,Keasy,Indonesian,North Carolina,3,82624.08,6,533-60-0646
-685,Leone,Winram,American Indian,New York,1,38423.0,1,181-29-0792
-686,Riley,Shorter,Pueblo,Florida,4,73613.03,1,108-67-3936
-687,Des,Sievewright,Panamanian,West Virginia,3,68885.82,8,522-90-9903
-688,Caty,Channer,Vietnamese,Colorado,3,29809.23,3,526-61-0624
-689,Flory,Geggie,American Indian,New York,4,177816.34,9,125-15-9457
-690,Helyn,Sloat,Apache,Illinois,1,163613.39,1,450-10-7469
-691,Selene,Dumbreck,,,1,132153.72,10,586-43-1079
-692,Shayna,Norway,,,3,22377.04,10,898-05-6823
-693,Carmina,Arnaudi,Blackfeet,North Carolina,3,108293.09,7,814-31-0414
-694,Tandie,Chelsom,Yuman,Illinois,4,18250.65,8,165-17-5075
-695,Benji,Mayworth,Uruguayan,Pennsylvania,4,116180.12,2,310-42-4732
-696,Jack,Bucky,Panamanian,Ohio,3,108037.91,2,841-16-0252
-697,Cordy,By,,,2,159387.04,6,430-44-8766
-698,Craggie,Kinsley,Uruguayan,Texas,5,154472.65,8,492-30-4900
-699,Raffaello,Hek,Menominee,Kentucky,1,114040.33,5,229-61-1956
-700,Layne,Huglin,Choctaw,California,2,151561.7,3,527-68-6278
-701,Vladimir,Habden,Crow,Oregon,5,25460.16,4,116-84-1952
-702,Estella,Wind,Yakama,Florida,5,21875.8,2,194-16-9218
-703,Ken,Lambrook,Chamorro,Arizona,5,79080.38,7,400-78-6280
-704,Clemens,Broadbere,Colombian,Pennsylvania,3,49855.49,5,552-79-0845
-705,Sidonia,Kirvell,,,2,45965.59,8,729-93-4540
-706,Antonin,Ram,Malaysian,Texas,5,176504.85,0,247-37-5271
-707,Jordon,Corpe,Tohono O'Odham,California,3,91446.43,5,221-10-8194
-708,Gregor,Casarili,Ute,Texas,2,11660.43,10,534-97-6929
-709,Rosalinda,Harold,Cambodian,Washington,4,67061.66,4,599-11-2563
-710,Aidan,MacKintosh,Crow,District of Columbia,4,70422.08,3,389-57-7355
-711,Whit,Bratton,White,Pennsylvania,5,28669.56,3,476-06-6930
-712,Bartolemo,Oakes,Guamanian,Connecticut,3,130864.27,6,149-09-2688
-713,Hilliard,Neath,Alaska Native,New Mexico,3,85111.41,1,669-16-1704
-714,Kirstyn,Beeby,Mexican,Texas,3,156337.06,3,509-69-3087
-715,Kate,Dwerryhouse,Chamorro,Florida,4,51256.82,1,139-25-7363
-716,Virgil,Leythley,Shoshone,Arizona,1,174979.31,9,774-09-8078
-717,Barri,Cheshir,Micronesian,California,0,178218.78,0,563-44-1680
-718,Yevette,Espadas,Chilean,District of Columbia,4,90625.07,4,293-79-3172
-719,Vidovic,Dykins,Choctaw,Florida,5,140824.97,3,422-41-5064
-720,Benedetta,Giamelli,Apache,Idaho,1,76440.0,8,604-51-3603
-721,Shara,Castiglio,Alaskan Athabascan,Louisiana,1,170060.18,0,640-69-6431
-722,Modesty,Riccio,Chickasaw,Georgia,2,164978.16,1,244-70-8054
-723,Marguerite,Akehurst,Puget Sound Salish,Kansas,1,18426.36,5,414-22-2349
-724,Quinn,Bricknell,Tlingit-Haida,Minnesota,2,63159.43,6,294-84-9603
-725,Kelly,Woolam,Indonesian,California,2,86419.5,3,409-95-5279
-726,Eduard,Cheshir,Yuman,Virginia,1,159784.8,3,829-99-4559
-727,Frank,Hulson,Spaniard,California,1,65128.59,4,842-69-6652
-728,Kiele,Manning,Pakistani,Massachusetts,3,42380.03,1,846-57-7022
-729,Thea,Haversham,Indonesian,Illinois,2,68538.52,4,510-78-1499
-730,Sonni,Cooksley,Japanese,Minnesota,4,66817.66,2,792-07-2651
-731,Octavia,Hovee,Bolivian,Nevada,4,129528.99,8,659-33-6604
-732,Merla,Talloe,Pueblo,Tennessee,3,115392.08,8,110-68-6288
-733,Jinny,Jouandet,Latin American Indian,Idaho,1,177715.94,5,796-11-0533
-734,Nola,Franssen,Polynesian,Massachusetts,0,100016.9,6,247-45-7800
-735,Randolf,Hancox,Tohono O'Odham,District of Columbia,5,41071.94,9,348-19-3294
-736,Truman,Flobert,,,1,81191.13,2,163-53-9470
-737,Duane,Lillegard,Sioux,Kansas,2,112438.78,3,244-60-8973
-738,Ranice,Birchill,Comanche,Virginia,2,59310.12,6,648-79-8160
-739,Jae,Headford,Black or African American,New York,3,158620.12,7,345-89-5947
-740,Corrina,Lambourne,Osage,Texas,1,77336.29,4,673-96-3256
-741,Kayle,Venner,Cree,District of Columbia,0,96759.47,0,893-10-7630
-742,Warren,Adshede,Colombian,Florida,3,40931.68,6,696-07-8583
-743,Charlena,Eads,Ute,Georgia,4,153578.12,5,429-02-5991
-744,Carlo,Caneo,Japanese,Texas,1,56833.6,3,836-28-4879
-745,Dulcine,Worrill,Vietnamese,Florida,2,103973.85,9,695-20-4585
-746,Rand,Dunrige,,,1,26021.4,5,607-43-3452
-747,Clemmie,Bisley,Thai,Texas,2,53555.7,6,217-56-2895
-748,Tuck,Dowrey,Chippewa,Kansas,1,139701.39,2,323-28-0766
-749,Kelsey,Goold,Tlingit-Haida,Alabama,0,150860.17,3,503-68-3784
-750,Che,Bovaird,Cuban,New Jersey,1,103951.11,4,828-54-2927
-751,Katalin,Kirkhouse,Samoan,New York,0,165607.87,5,181-06-5516
-752,Thekla,Derobert,Comanche,Colorado,0,161591.85,1,203-28-8908
-753,Mira,Sussex,Indonesian,Florida,0,120669.24,5,822-77-1358
-754,Ardelia,Laingmaid,Choctaw,Florida,5,139417.9,6,158-91-9340
-755,Carmella,Sautter,Paraguayan,Kentucky,4,47727.04,5,311-96-8796
-756,Ossie,Tunstall,Samoan,New York,3,77232.82,8,743-17-7899
-757,Hanny,Carcass,Sri Lankan,Washington,0,74256.08,7,669-05-6411
-758,Clemente,Spragg,Eskimo,Virginia,5,136207.13,6,202-76-9840
-759,Tonnie,Dorkens,Alaska Native,Washington,0,161726.55,2,211-75-6775
-760,Dugald,Buckston,Cree,Texas,0,124079.51,10,683-91-5815
-761,Maury,Cussins,Ute,Texas,5,59164.02,10,317-94-1600
-762,Caril,MacAlroy,Lumbee,Pennsylvania,5,18649.53,4,720-11-4699
-763,Bondy,Druhan,Chilean,California,1,45677.9,8,664-95-9532
-764,Allyn,McFaell,Eskimo,Connecticut,0,22733.59,7,536-10-6834
-765,Freddi,Wiffen,Chamorro,Texas,4,178471.2,1,126-85-4656
-766,Killie,Wilfinger,Yaqui,Massachusetts,2,100508.35,1,564-50-4232
-767,Ivonne,Pugh,Costa Rican,Florida,1,99378.22,7,194-68-7153
-768,Rollin,Crowther,Honduran,Iowa,4,144775.68,4,124-74-0468
-769,Brendon,Pembry,Bangladeshi,Florida,1,164073.44,6,125-01-1404
-770,Rebeca,Parkisson,Uruguayan,Wisconsin,2,56434.63,0,197-46-7666
-771,Erwin,Larn,,,4,121718.23,0,265-87-7950
-772,Katleen,Derham,Shoshone,Nevada,1,60077.59,2,775-70-3941
-773,Nikola,Dungey,,,2,64428.24,0,845-90-3811
-774,Marsha,Jowle,Fijian,Arizona,4,55034.39,9,604-81-9052
-775,Leanor,Paris,Ecuadorian,Virginia,5,117773.19,4,667-29-7992
-776,Orton,Stoneham,Ecuadorian,District of Columbia,2,113350.5,7,686-43-7460
-777,Erwin,Tomasicchio,Mexican,New Jersey,3,37442.42,1,846-70-3540
-778,Dean,Howsley,Colombian,California,5,26823.37,4,278-44-6293
-779,Edie,Takos,Panamanian,West Virginia,2,18375.01,6,260-46-8333
-780,Garrek,Ciccotti,Ute,District of Columbia,0,135524.8,1,322-02-8669
-781,Dianne,Guidini,Chilean,Iowa,3,105979.65,4,132-52-6241
-782,Gabbie,Wye,Korean,New York,4,145916.35,6,868-99-2419
-783,Angie,Camp,South American,Wisconsin,2,162673.66,10,197-75-5132
-784,Carol,Dummer,Sioux,Florida,3,175060.66,5,833-06-3073
-785,Alli,Fanton,,,2,46064.44,7,605-05-0644
-786,Hewe,Chaffyn,Sri Lankan,Tennessee,3,61760.05,0,269-41-3439
-787,Siana,Pauler,Chippewa,Virginia,3,39461.64,4,880-82-4374
-788,Dacie,Sancraft,Cuban,Florida,0,46902.61,10,168-90-2416
-789,Shaylynn,Guerrieri,Salvadoran,New York,5,168426.7,1,267-20-8189
-790,Valerye,Lorenzo,Hmong,California,2,68700.67,2,246-84-4183
-791,Nero,Coxall,Bolivian,Missouri,5,18772.09,2,775-17-9167
-792,Larry,Rasper,Fijian,District of Columbia,2,68858.1,4,875-79-5814
-793,Corabel,Yoodall,Samoan,Florida,2,134650.52,10,874-61-5101
-794,Early,Crebott,Cree,Florida,1,33634.13,7,515-65-3392
-795,Denys,Piddlehinton,Polynesian,New York,5,13470.24,8,860-21-7090
-796,Johan,Oxterby,Latin American Indian,Delaware,4,145044.71,6,893-28-7171
-797,Torie,Birrell,Ecuadorian,Tennessee,5,153965.72,7,281-73-9720
-798,Lennie,O'Longain,Yaqui,Ohio,5,166666.32,0,387-74-5796
-799,Jesus,Sellers,Yaqui,Texas,2,89626.54,2,286-37-4503
-800,Evin,Rolfi,Nicaraguan,Washington,4,55023.42,8,427-69-0438
-801,Gerianna,Klimushev,Cheyenne,Ohio,1,140274.28,4,695-16-3757
-802,Lotte,Catley,Guatemalan,District of Columbia,1,35153.81,1,240-71-1395
-803,Dulsea,Nockells,Thai,Florida,3,89148.29,4,462-05-6839
-804,Gertrud,Lorrain,Cree,Texas,2,54389.49,5,243-40-8415
-805,Gustaf,Tomsett,Aleut,Tennessee,4,114239.26,8,810-81-3199
-806,Dacey,Coleborn,Puget Sound Salish,Colorado,2,121537.88,3,719-40-5662
-807,Raine,Tyres,Shoshone,Missouri,0,85487.19,8,629-59-2560
-808,Valentin,Dickinson,Bangladeshi,Texas,1,99665.9,8,655-89-6930
-809,Brandy,Bidmead,Choctaw,District of Columbia,1,116232.35,10,762-69-3370
-810,Anastasia,Skellen,Sioux,Missouri,4,128284.6,10,522-50-1372
-811,Derek,Codlin,Comanche,Texas,0,13463.74,10,385-62-3650
-812,Pacorro,Lent,Indonesian,Florida,2,19727.47,9,256-87-4294
-813,Patrica,Gerner,Uruguayan,Florida,5,127706.18,8,597-47-2119
-814,Gayle,Carillo,,,4,41378.45,6,456-67-0029
-815,Sauveur,Burchess,Eskimo,Florida,5,126310.46,4,473-78-6058
-816,Issie,Severns,Chickasaw,Indiana,5,167778.46,6,606-13-3329
-817,Trude,Holberry,Chippewa,Minnesota,3,56824.57,3,665-92-6319
-818,Randal,Pile,Bolivian,Utah,1,167442.38,3,217-41-2171
-819,Alexandre,Stollberger,Crow,Florida,2,21057.46,6,591-49-6553
-820,Janka,Goldsmith,Venezuelan,Connecticut,4,121511.51,9,673-76-6333
-821,Harrietta,Yarranton,Apache,Nebraska,0,56881.48,5,446-88-6371
-822,Fawne,Beldum,Cherokee,Tennessee,4,137577.8,4,436-70-8800
-823,Chloris,Keener,Cherokee,Indiana,2,111231.87,4,387-25-5969
-824,Hester,Dann,Navajo,California,1,155195.05,3,559-69-4385
-825,Shaylah,Chiddy,Native Hawaiian and Other Pacific Islander (NHPI),Tennessee,0,147152.93,4,807-14-8750
-826,Donny,Philler,Korean,Alabama,3,108170.8,5,406-51-8097
-827,Ilise,Mc Kellen,Houma,District of Columbia,2,26941.34,10,885-63-4863
-828,Norby,Maybury,Korean,Maryland,4,169421.91,5,489-72-0900
-829,Neron,Boundey,,,5,51745.06,9,813-33-6292
-830,Tamarra,Bettles,Ottawa,California,1,100830.26,7,168-55-2079
-831,Nani,Canby,Chamorro,Arizona,0,14434.39,1,118-67-5412
-832,Deena,de Chastelain,Pakistani,Florida,2,53300.79,9,502-43-1052
-833,Jojo,Stag,Apache,Massachusetts,4,84195.46,0,346-82-9492
-834,Merla,Espine,Latin American Indian,Ohio,3,149525.77,3,656-64-0058
-835,Rosanne,Chittey,,,4,56612.99,4,155-53-9141
-836,Ransom,Keal,Sioux,Georgia,4,23617.33,9,894-02-9037
-837,Burty,Laborde,Paiute,District of Columbia,3,166694.96,3,406-50-4174
-838,Gonzalo,Verry,Navajo,Alabama,0,170271.15,7,280-85-1631
-839,Tobey,Flacknoe,Sri Lankan,Oklahoma,0,164726.44,6,641-90-5345
-840,Ilyse,Quince,Japanese,Minnesota,1,83119.94,2,842-82-4271
-841,Ludwig,Iglesias,Pueblo,Illinois,2,65750.54,7,486-66-9966
-842,Carroll,Vanetti,Puget Sound Salish,Kansas,4,179707.03,10,321-95-0379
-843,Bone,Besnardeau,,,3,37573.54,6,386-23-9460
-844,Glyn,Aris,Pakistani,Texas,5,67468.43,4,166-03-2246
-845,Yoshiko,Antoniat,Peruvian,Texas,5,10040.57,5,136-96-2741
-846,Helaine,Dovey,Pakistani,Minnesota,3,86311.78,8,446-30-4521
-847,Abraham,Farnorth,Aleut,Georgia,3,11686.99,10,333-75-8578
-848,Mildrid,Ebden,Asian,Colorado,0,155868.52,5,317-75-6574
-849,Kelcy,Wythill,Indonesian,Ohio,4,78794.63,1,618-33-8710
-850,Aurilia,Casel,Spaniard,New York,0,104142.6,6,181-50-0482
-851,Pierson,Gorvin,Salvadoran,Illinois,3,42473.32,1,202-93-3706
-852,Liliane,Eliesco,Pueblo,California,4,86015.7,1,217-03-3180
-853,Saundra,Butterfint,Chippewa,Florida,5,70899.16,4,737-98-1547
-854,Lorinda,Nassy,Argentinian,Georgia,4,87105.22,3,720-65-6589
-855,Jaymie,Wilcher,Pueblo,California,4,86480.02,4,296-43-1459
-856,Byrann,Shury,Yakama,Tennessee,3,34756.91,4,341-11-6537
-857,Kipp,Folker,Chilean,Georgia,1,52608.7,1,385-48-5908
-858,Delphinia,Crinkley,Sri Lankan,Florida,4,67557.16,7,409-37-2848
-859,Conan,Deniso,Sioux,Minnesota,5,75719.22,7,631-81-8623
-860,Tannie,Marrett,Tongan,Delaware,3,68151.87,3,681-43-6320
-861,Margarete,Aulsford,Dominican (Dominican Republic),Virginia,2,155740.62,2,169-42-5667
-862,Shaine,Broadbear,Argentinian,Pennsylvania,2,116523.61,3,257-15-2341
-863,Ariella,Coat,,,1,49304.99,8,580-08-9059
-864,Pattin,Jordon,Peruvian,Michigan,3,65644.9,4,745-55-8383
-865,Hubie,Rolf,Honduran,California,4,27187.67,3,210-55-2097
-866,Umeko,Francais,Uruguayan,District of Columbia,0,117967.32,1,829-09-2072
-867,Allyce,Prestige,Apache,Arizona,5,97627.49,10,383-80-9000
-868,Bendix,McFadyen,Black or African American,Kentucky,0,79156.71,0,461-50-8981
-869,Briney,Scragg,Chickasaw,Alabama,1,45902.76,0,829-69-8161
-870,Barbabas,McRonald,Dominican (Dominican Republic),Tennessee,3,115250.06,7,617-53-6205
-871,Maurita,Phayre,Tohono O'Odham,New York,4,165192.59,7,832-24-6793
-872,Desmond,Headech,Apache,California,0,103029.05,4,280-50-5226
-873,Sonny,Joburn,Japanese,Texas,2,24450.06,7,307-96-0473
-874,Enid,Delafoy,Sioux,California,4,152124.95,10,390-11-0728
-875,Courtenay,Teague,Cheyenne,California,4,97528.79,7,385-78-4066
-876,Arturo,Baily,,,3,157669.02,8,397-10-8429
-877,Fax,Bardell,Puget Sound Salish,North Carolina,0,56630.17,5,424-18-2787
-878,Gerianne,Mewis,Creek,New York,3,72121.05,4,777-54-0374
-879,Michaeline,Peyro,Guatemalan,Texas,3,116987.48,4,160-99-1930
-880,Madelene,Amy,Fijian,California,1,155103.38,1,595-24-4452
-881,Say,Goodacre,Venezuelan,California,0,120264.62,8,520-13-9288
-882,Katherina,Matthews,Colville,Ohio,3,35263.03,10,291-32-0717
-883,Dorice,Coughan,Osage,Florida,1,164988.25,2,676-81-0993
-884,Merissa,Coom,Comanche,Florida,4,136976.8,7,764-62-2126
-885,Emlynne,Emsley,Asian Indian,North Carolina,0,98619.05,1,131-34-2571
-886,Rosina,Eva,Bolivian,North Carolina,4,11098.34,0,590-47-2147
-887,Cathee,Casaccia,Micronesian,Pennsylvania,4,163445.01,4,442-74-1536
-888,Annmaria,Darrell,Malaysian,Florida,0,127906.75,9,755-66-5350
-889,Sher,Goodlett,Lumbee,California,0,18629.71,10,735-43-5206
-890,Beverlee,Penhaleurack,Bolivian,Ohio,0,79830.03,10,861-06-4923
-891,Peder,Dunbabin,Iroquois,Kentucky,4,143347.84,6,591-23-6282
-892,Armin,Tesauro,Yuman,Illinois,2,51668.38,0,780-58-4437
-893,Glyn,Maltman,Colville,California,4,99435.89,3,539-27-8325
-894,Niel,Worvill,Ottawa,Maryland,1,66862.56,6,659-63-3368
-895,Claudelle,Bruhnke,Filipino,Missouri,4,38310.72,6,731-71-2431
-896,Essie,Benitti,Latin American Indian,Texas,1,26948.04,3,108-67-7835
-897,Clair,Gasgarth,Colville,Tennessee,0,47457.62,7,663-25-6214
-898,Micheline,Yukhtin,Malaysian,New Jersey,2,48048.24,4,747-37-0135
-899,Elbertina,Yanin,South American,Texas,4,173374.15,6,465-67-0181
-900,Dorey,Jaskowicz,Korean,Mississippi,2,145398.64,5,163-18-7664
-901,Abagail,Cleaton,,,0,21330.25,1,109-85-2255
-902,Salmon,Lansly,Hmong,Texas,2,40125.34,8,827-62-9777
-903,Georgy,Matuska,Panamanian,Nevada,4,123163.72,0,456-45-0753
-904,Cally,McCague,Asian Indian,Michigan,3,95159.67,1,839-97-4474
-905,Lawry,Jankowski,Colombian,Idaho,2,22369.02,3,351-81-7589
-906,Forster,Carrack,Malaysian,Texas,1,78581.55,2,625-89-1418
-907,Christiana,Stother,Bangladeshi,Pennsylvania,2,95289.99,4,427-36-8755
-908,Jamima,Ferrieres,Native Hawaiian and Other Pacific Islander (NHPI),Pennsylvania,0,127598.87,7,591-15-9936
-909,Giulio,Fowkes,Navajo,North Carolina,0,46061.7,5,193-78-4571
-910,Glenden,Villaret,Tohono O'Odham,Florida,4,71635.63,0,221-92-7886
-911,Gerianne,Ebbage,Polynesian,New York,0,16174.4,4,151-05-3863
-912,Esme,Perillo,Chamorro,Washington,1,136375.2,10,337-79-7800
-913,Craggy,Bediss,Cree,Florida,3,145134.01,9,773-49-6400
-914,Starr,Grebner,Eskimo,Florida,5,26708.14,3,562-83-5540
-915,Karim,Jencken,Ecuadorian,Florida,2,84937.91,7,667-70-8126
-916,Dianna,Agate,Sioux,Illinois,1,25536.37,0,835-24-3365
-917,Terry,Deguara,Colville,Arizona,3,60182.65,1,659-09-5308
-918,Belle,Jowsey,Cheyenne,Texas,5,12671.39,8,198-70-0176
-919,Kenna,Gorger,Aleut,Texas,0,82781.78,10,167-21-3901
-920,Napoleon,Swinn,Shoshone,Kansas,5,162092.41,6,740-49-2969
-921,Zia,Justham,Pakistani,Virginia,1,33438.04,10,319-97-6109
-922,Miran,Standeven,Eskimo,Minnesota,2,141850.0,7,690-81-0287
-923,Norrie,Sutter,Ute,Wisconsin,2,59170.3,5,336-65-5536
-924,Allix,Uttley,Malaysian,District of Columbia,2,64022.43,9,754-61-1256
-925,Barnaby,Bellsham,Hmong,Virginia,3,121994.32,10,679-27-4739
-926,Madelaine,Eccleshare,Puget Sound Salish,Connecticut,5,74651.64,0,189-07-0410
-927,Jule,De Filippi,Central American,Georgia,1,68852.05,2,840-90-7814
-928,Jedidiah,Jaspar,Houma,Texas,1,150184.16,5,793-39-8000
-929,Dav,Heifer,Native Hawaiian and Other Pacific Islander (NHPI),District of Columbia,0,67795.56,4,685-18-8643
-930,Isacco,Trippack,Cree,Oklahoma,1,55420.17,1,253-66-2508
-931,Fairfax,Warbeys,Kiowa,Florida,1,12118.82,4,891-94-3465
-932,Marion,Phorsby,Kiowa,Alabama,2,165437.07,3,654-37-5021
-933,Kimbra,Fullick,Korean,Florida,2,129062.83,6,737-60-5429
-934,Matthaeus,Prujean,Alaska Native,Ohio,3,84125.66,4,490-13-9957
-935,Audrey,Pring,Comanche,Texas,4,45702.14,10,344-52-9094
-936,Jackie,Louthe,Native Hawaiian and Other Pacific Islander (NHPI),California,1,20814.62,10,470-38-3686
-937,Reynold,Hynam,Colombian,Connecticut,0,133001.91,3,771-27-2571
-938,Dorey,Cowie,Houma,Colorado,1,45257.72,7,644-37-3110
-939,Deny,Kynnd,Indonesian,Pennsylvania,0,16354.8,1,688-36-9577
-940,Erasmus,Ravel,Costa Rican,Ohio,1,38002.04,9,120-57-0103
-941,Nickola,Tingly,Chickasaw,Connecticut,3,93325.78,8,843-94-5046
-942,Don,Chaffyn,Fijian,Arizona,5,135665.08,2,265-28-9210
-943,Ara,Probat,Korean,Wisconsin,5,44826.97,8,880-32-9935
-944,Eberhard,McTeggart,Fijian,Washington,0,145925.06,2,337-40-2909
-945,August,Dainton,Filipino,South Carolina,5,40369.54,0,828-23-4649
-946,Brew,Kryszka,Dominican (Dominican Republic),Texas,0,15183.64,1,708-41-9816
-947,Mikaela,Columbine,Alaska Native,Wisconsin,0,25834.03,6,230-59-5432
-948,Kathi,Ofen,Yuman,Louisiana,5,176971.48,8,433-64-4940
-949,Randi,Crookall,Navajo,District of Columbia,1,12601.05,0,800-12-3502
-950,Adoree,Colhoun,Mexican,Massachusetts,1,41855.15,6,326-78-6764
-951,Gualterio,Lenox,Puerto Rican,Virginia,4,56785.32,10,750-29-8432
-952,Jilly,Abbes,Japanese,North Carolina,4,86601.64,9,645-13-8013
-953,Northrop,Fussell,Samoan,Texas,5,34085.35,5,645-64-2403
-954,Art,Giuron,Chilean,Maryland,2,162534.72,3,389-20-3266
-955,Dorella,Erat,Mexican,Florida,3,99535.97,2,766-88-5985
-956,Ashlie,Enden,Chilean,Texas,3,11397.34,2,591-96-0180
-957,Kellsie,Metts,Bolivian,Nevada,3,136996.06,9,429-66-0149
-958,Red,Kleinfeld,Yaqui,Florida,1,174953.18,6,793-28-4245
-959,Anstice,Brushneen,Polynesian,Pennsylvania,4,81914.36,8,530-77-4589
-960,Stan,Haly,Pima,Virginia,3,34931.2,4,884-58-2940
-961,Celestine,Strathearn,Mexican,Texas,5,126995.88,4,490-55-3993
-962,Bellanca,Inkpen,Salvadoran,Texas,3,31264.01,6,393-38-8077
-963,Devon,Butt,,,3,36864.05,6,478-86-7389
-964,Jeni,Dufaur,Cuban,Tennessee,0,56780.29,2,781-23-3003
-965,Deena,Pigney,Dominican (Dominican Republic),Alabama,0,110397.52,4,203-49-2639
-966,Angeline,Mayzes,Sri Lankan,Massachusetts,3,15638.45,5,610-18-3742
-967,Yvon,Camin,Lumbee,Florida,5,128968.52,3,550-80-3498
-968,Rodi,Frantzen,Chilean,Florida,5,71942.48,4,620-70-4965
-969,Daffie,Curnucke,Paiute,Maryland,0,115078.4,3,785-98-7950
-970,Jorie,Grieg,American Indian,Indiana,1,54143.35,7,135-10-0901
-971,Maureene,MacDavitt,Chinese,North Carolina,1,60218.76,4,556-31-9496
-972,Bruis,Joust,Iroquois,Massachusetts,2,68797.22,9,887-61-5579
-973,Elyssa,Evelyn,Dominican (Dominican Republic),District of Columbia,3,107996.92,6,200-45-7935
-974,Dode,Mathieu,Paiute,Tennessee,5,108951.55,2,532-12-5556
-975,Quent,Pashen,Nicaraguan,Illinois,3,112123.92,0,684-09-6069
-976,Dilan,Showl,Iroquois,Michigan,0,174442.41,2,251-90-8306
-977,Aimee,Byrnes,Sioux,California,1,28223.06,2,701-58-1415
-978,Drucie,Ledington,Cherokee,Missouri,1,165328.04,5,255-22-0455
-979,Roddy,Vasyukov,Vietnamese,Colorado,1,93122.44,7,189-20-6662
-980,Murray,Stanbrooke,Potawatomi,Florida,2,127634.23,10,561-15-5506
-981,Sherill,Twitchett,Paiute,Tennessee,0,49857.31,5,647-78-8100
-982,Reese,Elam,Alaska Native,Virginia,5,54013.98,0,780-44-1246
-983,Trip,MacKonochie,Panamanian,Colorado,3,125365.79,10,865-04-1871
-984,Renard,Jack,Korean,Tennessee,5,85727.78,3,769-66-3310
-985,Mic,Leate,Puget Sound Salish,Louisiana,4,140363.58,3,431-38-8344
-986,Raynell,Mumbray,Lumbee,Illinois,3,79803.52,8,294-39-8824
-987,Bettye,Ricker,Laotian,Minnesota,2,81108.0,3,485-34-7594
-988,Alikee,Judkins,Navajo,California,0,67224.68,9,577-01-0598
-989,Hali,Raigatt,Crow,California,0,11343.24,1,157-66-6821
-990,Audy,Tuerena,,,4,172368.93,8,872-59-1949
-991,Alfy,Slopier,Lumbee,North Carolina,2,42204.63,9,828-64-3731
-992,Toiboid,Ramas,Bangladeshi,Oklahoma,0,63606.96,9,583-80-3664
-993,Aline,Anthoin,Korean,Georgia,0,127811.48,10,319-54-8572
-994,Wake,Springell,Yaqui,Tennessee,0,71711.97,1,135-69-7126
-995,Justinian,Spellesy,Honduran,Florida,5,63580.41,0,675-52-4663
-996,Hertha,Stranio,American Indian,Ohio,3,76246.17,0,449-53-4876
-997,Rahel,Rintoul,Panamanian,District of Columbia,4,57160.36,10,574-83-5242
-998,Henderson,Coneybeer,Tohono O'Odham,California,1,101145.09,9,295-82-4854
-999,Scarface,Holyard,Cree,Texas,3,125743.73,10,330-22-5561
-1000,Fan,Vargas,Korean,District of Columbia,5,52625.26,5,495-19-6395
+1,Agnese,Ward,race2,?,3,34158,group1,640-55-1881
+2,Winny,Ward,race3,county1,4,96880,group2,621-26-2845
+3,Lazarus,Elliott,?,county1,0,109679,group3,?
+4,Owen,Hawkins,?,county3,3,119566,group3,?
+5,Sapphira,Watson,race3,county1,3,294970,group1,819-41-9160
+6,Syman,Hawkins,race1,county3,4,28899,group3,761-95-1363
+7,Bathsheba,Brooks,race1,county3,1,58192,group3,452-97-3911
+8,Sonnie,Cannon,race1,county4,1,291792,group3,413-59-9424
+9,Christian,Scott,race1,county3,0,43473,group3,469-14-4864
+10,Adey,Hawkins,race1,county1,2,282467,group3,256-62-0680
+11,Karlie,Elliott,race1,county4,5,207916,group1,193-71-5395
+12,Velvet,Waters,race2,county1,1,71571,group1,353-87-0672
+13,Miles,Lawson,race3,county1,1,165139,group3,482-04-7620
+14,Trix,Watson,race3,county2,4,50727,group2,866-47-3296
+15,Tully,Casey,race2,county3,5,93837,group3,246-51-6367
+16,Ollie,Scott,race1,county1,1,222338,group3,194-57-5952
+17,Orelee,Quinn,race2,county3,4,104794,group3,742-52-6497
+18,Frants,Frank,race1,county3,3,101896,group1,514-98-1373
+19,Mignon,Hale,race2,?,5,145671,group2,272-58-0915
+20,Bobina,Watson,race2,county3,4,271349,group1,734-82-0686
+21,Devlin,Hoffman,race1,county1,4,252974,group2,745-71-9494
+22,Elane,Lawson,race1,county1,4,163077,group3,367-58-3753
+23,Ashely,Owen,race2,county3,3,59598,group3,278-98-4164
+24,Rochell,Le,race2,county3,2,44089,group1,214-41-2072
+25,Nanete,Casey,race3,county1,5,177290,group2,490-28-4371
+26,Gabrielle,Frank,race3,?,1,229828,group1,160-73-4122
+27,Dimitri,Le,race1,county2,0,237501,group1,498-29-9454
+28,Luke,Cervantes,race1,county3,4,259628,group2,519-23-7526
+29,Chery,Elliott,race2,county3,0,17564,group3,356-89-9797
+30,Marianna,Waters,race3,county1,3,162323,group2,529-78-6363
+31,Jillane,Hoffman,?,county4,5,24586,group1,?
+32,Kalila,Cannon,race2,county2,1,233069,group1,856-06-5155
+33,Selle,Hale,?,county1,1,204123,group2,512-38-1131
+34,Terra,Waters,race1,county1,4,296510,group2,859-24-9425
+35,Dall,Le,race1,county4,3,156541,group2,314-35-3111
+36,Osborne,Pollard,race3,county1,3,239160,group3,153-25-4232
+37,Vasily,Hale,?,county1,4,221232,group3,281-48-5993
+38,Blair,Cervantes,race3,county1,3,211964,group1,785-69-3238
+39,Margaux,Cannon,race3,county1,5,52994,group2,114-82-3383
+40,Melita,Watson,race2,county4,5,52943,group2,467-20-9432
+41,Shelia,Owen,race2,county2,2,155705,group2,294-87-9348
+42,Stavro,Quinn,race1,county4,4,21197,group1,512-54-1238
+43,Wandie,Elliott,race2,county1,1,242668,group1,665-87-2467
+44,Sarina,Scott,race1,county3,3,142894,group1,295-98-4371
+45,Michele,Hoffman,race2,county3,5,109882,group1,183-06-4409
+46,Gerrie,Elliott,race3,county1,3,167791,group2,276-20-0802
+47,Lamont,Quinn,race1,county2,5,270373,group1,328-19-0466
+48,Teriann,Owen,race1,county3,0,65127,group2,844-31-9800
+49,Brigg,Cannon,?,county1,0,75330,group1,?
+50,Jillie,Elliott,race2,county2,3,203076,group3,708-54-6929
+51,Bevin,Hoffman,race1,county1,1,28103,group2,198-91-3629
+52,Devina,Watson,race2,county2,4,145768,group2,516-95-3538
+53,Malissia,Hawkins,race2,county3,3,112443,group3,454-88-4740
+54,Caprice,Hawkins,race1,county4,5,248606,group3,200-27-2695
+55,Sander,Lawson,?,county3,5,102775,group2,?
+56,Thaddeus,Waters,race3,county1,3,115166,group2,673-59-8982
+57,Kilian,Scott,?,county1,2,13872,group3,790-13-6105
+58,Gianina,Cervantes,race2,county4,0,62332,group1,355-72-6526
+59,Jacky,Elliott,?,county3,0,222949,group2,?
+60,Marice,Hale,?,county2,0,13273,group1,?
+61,Risa,Watson,race2,county1,2,158621,group3,111-96-7618
+62,Nerti,Lawson,race3,county1,5,29213,group3,212-93-2763
+63,Man,Frank,race1,county2,5,256220,group2,482-56-3546
+64,Karalee,Elliott,race1,county1,3,206369,group2,147-21-1023
+65,Ranna,Wilkerson,race3,county1,3,58714,group1,556-08-2018
+66,Mick,Ward,race1,county2,1,287933,group2,653-07-5182
+67,Vinnie,Hawkins,race3,county1,5,182187,group1,187-22-4656
+68,Haroun,Watson,race2,county2,2,226934,group2,711-06-2571
+69,Winni,Casey,?,county4,3,246923,group3,?
+70,Rourke,Brooks,race2,county2,3,225084,group2,231-67-3421
+71,Darrel,Wilkerson,race3,county1,0,45282,group1,478-83-6291
+72,Izaak,Frank,race3,county1,4,253916,group1,412-25-0556
+73,Leyla,Quinn,race2,county4,2,254265,group2,742-82-7874
+74,Isidor,Cannon,race2,county4,1,241911,group1,212-21-5077
+75,Zora,Kirk,race1,county2,1,273174,group2,868-27-9676
+76,Trisha,Hale,race3,county1,1,116518,group3,286-17-2765
+77,Ronnie,Owen,race2,county1,3,198916,group2,254-54-0996
+78,Rowe,Quinn,race2,county1,2,47037,group2,669-61-5483
+79,Rolph,Hoffman,race3,county1,5,91236,group3,852-83-2966
+80,Geralda,Hawkins,race1,county2,1,206919,group3,613-77-3715
+81,Phedra,Hoffman,race3,county1,1,58010,group2,748-65-5254
+82,Claudio,Owen,race1,county3,3,186372,group3,354-02-4531
+83,Jobey,Ward,race3,county1,2,53732,group3,474-42-5392
+84,Christen,Elliott,race2,county2,0,231374,group1,134-03-5340
+85,Dulsea,Pollard,?,county1,4,86989,group1,?
+86,Bianka,Waters,race2,?,2,161765,group3,662-01-2081
+87,Arlette,Hoffman,?,county1,0,12550,group3,?
+88,Chrysa,Hawkins,?,county4,2,142714,group1,?
+89,Sylvester,Cannon,race3,county1,1,104382,group2,410-49-8422
+90,Darryl,Waters,race2,county4,0,265020,group2,170-02-1048
+91,Mozes,Cervantes,race2,county4,3,221623,group2,538-06-8227
+92,Georgi,Scott,race1,county3,2,278281,group1,147-11-4970
+93,Thaddeus,Waters,race1,?,5,196806,group3,643-75-6824
+94,Annecorinne,Hoffman,race2,county4,1,10648,group1,137-01-0061
+95,Tanitansy,Pollard,race2,county2,0,54932,group3,149-66-6742
+96,Bobbee,Quinn,race3,county1,4,226732,group1,278-77-8773
+97,Ofella,Watson,race3,county1,5,264752,group2,707-66-2066
+98,Miof mela,Lawson,race3,county1,5,299943,group1,285-60-2284
+99,Kori,Hale,race1,county4,1,132688,group2,720-59-7183
+100,Kort,Brooks,race2,county2,0,125092,group2,616-17-2191
+101,Lana,Hoffman,race3,county1,0,209847,group1,134-60-4679
+102,Case,Frank,race1,county4,0,23362,group1,480-54-5874
+103,Guenna,Elliott,race2,county2,2,192333,group3,343-68-5148
+104,Bernhard,Frank,race2,county3,2,154020,group3,262-20-8363
+105,Gustavus,Brooks,race2,county2,1,272108,group3,832-24-8497
+106,Harper,Hoffman,race1,county1,4,185558,group3,735-49-2740
+107,Jard,Le,race3,county3,0,249030,group2,754-50-9261
+108,Dulcinea,Hoffman,race3,county1,5,138108,group1,624-88-5242
+109,Erminie,Pollard,race2,county4,2,36109,group3,468-66-6515
+110,Reta,Brooks,race2,county1,4,204334,group2,431-23-9012
+111,Derk,Pollard,race1,county2,3,205900,group3,690-08-6375
+112,Danny,Owen,race2,county4,3,192298,group3,637-20-8677
+113,Daphna,Wilkerson,race1,county3,1,144744,group3,643-91-8355
+114,Rolando,Casey,race1,county1,1,135576,group3,645-73-0750
+115,Hannis,Hoffman,race3,county1,4,174045,group3,504-06-8105
+116,Mirabelle,Ward,race3,county1,4,157543,group2,579-72-0687
+117,Mellisa,Quinn,race3,county1,0,114331,group3,893-77-2293
+118,Jeremiah,Scott,race3,county1,2,276287,group2,553-93-2140
+119,Michele,Elliott,?,county2,4,107465,group3,?
+120,Abey,Elliott,race2,county4,0,68008,group1,334-51-2279
+121,Etienne,Quinn,?,county2,2,34931,group2,?
+122,Brooke,Quinn,race3,county1,5,122251,group2,299-58-3182
+123,Moyra,Hoffman,race1,county2,4,99683,group1,260-63-6309
+124,Angelica,Brooks,race1,county4,5,52387,group2,745-27-1782
+125,Pier,Hale,race1,county2,0,17039,group3,434-03-3411
+126,Suzann,Owen,race3,county1,5,264643,group1,760-53-5577
+127,Birk,Lawson,race2,county1,2,202520,group2,431-82-3940
+128,Waldemar,Elliott,race3,county1,1,195817,group3,575-91-8880
+129,Logan,Le,race1,county2,5,250357,group3,783-27-5009
+130,Collette,Ward,race2,county3,4,92172,group1,637-39-5577
+131,Karol,Le,?,county1,2,279231,group3,685-25-6885
+132,Aigneis,Le,race3,county1,4,184128,group1,812-29-1519
+133,Clayton,Watson,race3,county1,2,266854,group2,487-99-6096
+134,Avivah,Hoffman,race3,county1,4,48583,group1,410-20-0904
+135,Fransisco,Owen,race2,county3,0,270403,group1,518-88-6810
+136,Dewey,Waters,race3,county1,0,191678,group2,508-51-0150
+137,Lilah,Casey,race1,county4,2,155143,group2,473-81-2227
+138,Eustace,Waters,race1,?,3,241597,group2,504-26-3246
+139,Cristie,Hoffman,race1,county1,3,269613,group1,369-09-7256
+140,Hartley,Pollard,?,county1,2,292314,group1,534-49-5426
+141,Shelley,Pollard,race1,county2,0,117658,group1,436-84-2786
+142,Bastian,Lawson,race3,county1,5,87256,group3,411-52-8284
+143,Ashla,Hawkins,race1,county4,1,214306,group1,770-24-7205
+144,Aloin,Brooks,race2,county4,1,173951,group1,658-81-4532
+145,Ebenezer,Frank,race2,?,3,276236,group1,855-81-1367
+146,Nikita,Le,race3,county2,0,214182,group3,869-89-1533
+147,Bridgette,Owen,race2,county3,0,85722,group3,256-81-9768
+148,Dallis,Lawson,?,county2,1,264188,group1,?
+149,Hendrika,Frank,?,county1,0,223175,group3,?
+150,Osmond,Pollard,race3,county1,3,217651,group1,514-71-9465
+151,Gweneth,Hawkins,race2,county3,4,113396,group1,640-35-8596
+152,Diann,Ward,race3,county3,4,270658,group3,437-61-0453
+153,Barbey,Hale,race3,county1,3,297407,group1,318-67-1035
+154,Austin,Lawson,race3,county1,4,92367,group2,280-89-4953
+155,Alwyn,Cannon,race2,county4,0,252657,group3,698-58-5676
+156,Jose,Frank,race3,county1,4,176090,group3,653-48-9285
+157,Krissy,Owen,race3,county1,4,66496,group2,796-64-3971
+158,Boote,Owen,race2,county3,5,113087,group2,242-02-2149
+159,Bette,Wilkerson,race1,county2,5,236118,group3,430-23-4683
+160,Zsa zsa,Ward,?,county3,2,181188,group3,?
+161,Marita,Owen,race2,county3,3,141656,group1,553-47-3021
+162,Lelah,Hawkins,?,county1,5,19821,group1,244-40-0076
+163,Jaine,Cannon,?,county3,3,89173,group3,?
+164,Gaultiero,Watson,race3,county1,0,57767,group3,821-04-8712
+165,Reba,Wilkerson,race2,county4,5,223432,group2,846-32-8232
+166,Jehanna,Pollard,race1,county1,0,84732,group2,399-06-9129
+167,Ashby,Frank,race1,county3,0,20853,group1,131-05-8686
+168,Barth,Frank,race2,county2,4,139352,group3,333-58-2424
+169,Hewett,Wilkerson,race2,county4,1,12230,group3,836-85-4425
+170,Judie,Elliott,race2,county1,2,214902,group3,232-58-7089
+171,Domenic,Waters,race3,county1,1,148274,group1,842-52-5243
+172,Claudius,Hale,race3,county1,4,66313,group2,447-87-3829
+173,Loralyn,Frank,?,county2,5,226749,group1,161-54-4147
+174,Wileen,Brooks,race3,county1,5,12595,group1,463-37-3926
+175,Donal,Frank,race3,county1,1,42760,group2,580-84-5748
+176,Tommy,Cervantes,race1,county3,5,266442,group1,889-24-4360
+177,Cariotta,Scott,race1,county1,5,245033,group3,597-44-1545
+178,Jedd,Cannon,race2,county3,3,135277,group2,895-02-7134
+179,Eward,Elliott,race3,county1,2,64265,group3,643-38-7349
+180,Kahaleel,Cannon,race3,county1,2,262781,group2,787-12-3355
+181,Babita,Hawkins,race2,county2,1,250894,group2,330-16-8306
+182,Ciel,Elliott,race3,county1,5,217261,group2,174-61-5962
+183,Filmer,Frank,race2,county2,1,118563,group1,118-79-4889
+184,Merridie,Cannon,race3,county1,5,244410,group1,111-36-3211
+185,Gib,Le,race3,county1,5,164797,group3,884-71-0005
+186,Forbes,Elliott,race1,?,2,43245,group3,859-41-3100
+187,Lori,Scott,race2,county2,1,35256,group1,304-71-7254
+188,Jacenta,Wilkerson,race3,county1,3,283939,group3,661-98-9297
+189,Rockwell,Scott,race2,county3,5,155004,group2,165-36-6289
+190,Cody,Casey,race2,county4,0,157134,group3,859-62-0015
+191,Joellyn,Hoffman,race1,county2,1,179776,group1,435-15-6699
+192,Carrol,Pollard,race3,county1,4,276814,group3,153-98-5009
+193,Abbi,Cannon,race1,county3,2,77998,group1,813-65-2927
+194,Stanley,Hawkins,race3,county1,0,278954,group1,436-43-3042
+195,Kevon,Frank,?,county1,4,269164,group2,116-81-4203
+196,Rogers,Pollard,race2,county3,0,194362,group3,519-05-8171
+197,Fayina,Quinn,race2,county3,1,88608,group2,172-20-8194
+198,Kimberley,Hoffman,race3,county1,2,228873,group3,267-54-5300
+199,Mari,Cannon,race2,?,2,294125,group1,701-52-0072
+200,Harris,Ward,race3,county1,4,154387,group1,478-46-2995
+201,Corrie,Owen,race2,county4,1,180658,group1,152-44-7696
+202,Fairleigh,Pollard,race1,county1,1,69791,group2,567-11-4541
+203,Toiboid,Casey,race2,county3,5,27423,group1,846-82-6631
+204,Erinna,Hawkins,race2,county3,5,216500,group2,288-74-3813
+205,Michal,Quinn,race1,county3,1,104198,group2,288-80-9492
+206,Geno,Lawson,?,county1,4,234607,group3,800-35-7401
+207,Christy,Owen,race2,county4,5,151269,group3,377-95-4973
+208,Lou,Elliott,race3,?,1,229696,group3,232-69-0363
+209,Lexi,Elliott,race2,county4,3,140531,group3,492-51-3515
+210,Nelli,Frank,race2,county4,4,37148,group2,533-38-0422
+211,Ginevra,Hale,race2,county4,3,167495,group3,460-31-4556
+212,Winn,Hawkins,race1,county1,3,125350,group3,103-90-2868
+213,Wallace,Quinn,race1,county2,2,192317,group1,892-30-9471
+214,Corabelle,Cervantes,race2,county4,0,26809,group2,663-11-6955
+215,Zane,Kirk,race1,county2,5,131022,group3,634-62-0249
+216,Romona,Elliott,?,county3,1,75177,group3,?
+217,Ceciley,Lawson,race2,county4,3,249057,group3,141-50-6898
+218,Morey,Hawkins,race2,county3,3,111112,group3,667-70-8678
+219,Deeann,Scott,race1,county4,3,152347,group1,432-15-0311
+220,Dar,Elliott,race1,county1,4,265593,group1,260-12-4687
+221,Wells,Frank,race2,county3,1,108572,group3,858-30-9285
+222,Winifield,Owen,?,?,3,34031,group1,209-78-6511
+223,Krishnah,Hoffman,race2,county2,4,268258,group2,741-08-9412
+224,Ina,Hale,race2,county4,4,223863,group3,146-17-3977
+225,Niccolo,Cervantes,race1,county1,2,37862,group3,774-82-5332
+226,Jourdan,Waters,race2,county3,5,44716,group2,440-05-3561
+227,Julieta,Ward,race3,county1,1,195228,group2,705-32-3052
+228,Isac,Hoffman,race3,county1,3,263951,group3,748-44-2974
+229,Kip,Quinn,race3,county1,5,152629,group3,780-41-8774
+230,Sheree,Hawkins,race1,county2,0,224567,group3,809-88-9256
+231,Ronnie,Le,race1,county3,5,130799,group2,293-74-4155
+232,Kyla,Lawson,race2,county4,4,140873,group3,882-26-5669
+233,Effie,Ward,race2,county2,1,232944,group3,402-15-3079
+234,Barri,Hawkins,race3,county1,3,228078,group1,795-46-9641
+235,Sibeal,Waters,race3,county1,5,216193,group3,360-27-0517
+236,Rafa,Le,race3,county1,1,135973,group2,635-23-6522
+237,Land,Cervantes,race3,county1,1,191778,group3,363-90-2086
+238,Corena,Hawkins,race2,county1,1,79711,group2,512-82-3446
+239,Faulkner,Cervantes,race3,?,5,291993,group2,130-87-0545
+240,Freda,Lawson,race3,county1,3,169760,group2,641-45-9000
+241,Dale,Brooks,race2,county2,1,267232,group1,590-15-8561
+242,Ania,Ward,race1,county3,0,153457,group2,444-03-4269
+243,Lissi,Elliott,race2,county3,0,292252,group3,835-82-6903
+244,Joyce,Watson,race1,county3,0,183886,group1,358-57-6222
+245,Reeta,Lawson,race2,county3,1,145221,group2,859-89-4049
+246,Marty,Ward,race2,county4,2,15779,group2,194-81-1446
+247,Jennie,Le,race1,county4,5,153230,group2,406-81-7478
+248,Arv,Quinn,race2,county4,4,233020,group1,551-14-9751
+249,Haily,Cannon,race1,county1,4,117088,group1,774-12-4116
+250,Yankee,Brooks,race1,county2,5,236017,group2,820-61-5760
+251,Bobby,Quinn,race3,county1,3,154830,group2,698-81-8980
+252,Wat,Lawson,race2,county2,3,85994,group3,537-19-1461
+253,Dillon,Hale,race3,county1,4,225479,group3,231-25-6381
+254,Addison,Casey,race2,county4,0,297327,group2,814-60-6506
+255,Aubrette,Watson,race2,county3,4,133028,group3,575-18-8100
+256,Saidee,Watson,race3,county1,2,152033,group2,832-24-1445
+257,Garner,Wilkerson,race3,county1,5,153826,group3,504-56-5177
+258,Artur,Watson,race2,county4,2,181134,group2,270-61-7835
+259,Salim,Hawkins,race3,county1,0,43698,group2,685-29-5509
+260,Livy,Hale,?,county3,5,84792,group1,?
+261,Evangeline,Cervantes,race3,county1,0,60658,group3,705-99-3976
+262,Welsh,Ward,race2,county3,0,217715,group2,572-98-6948
+263,Natale,Casey,race1,county3,1,41561,group1,840-43-3321
+264,Keelia,Lawson,?,county4,4,22636,group3,?
+265,Buckie,Cannon,race1,county4,4,131854,group1,609-75-9262
+266,Tiertza,Waters,race3,county1,0,40510,group1,531-48-2590
+267,Madelon,Waters,race3,county1,3,164699,group2,734-94-5179
+268,Oates,Hale,race2,county3,1,72099,group3,862-61-3630
+269,Ailyn,Owen,?,county1,1,180287,group2,564-87-9551
+270,Morganica,Owen,race2,county3,0,70163,group2,321-45-9556
+271,Pepe,Hale,race2,county2,3,53100,group2,839-23-5111
+272,Elliott,Le,race3,county1,1,176880,group1,325-23-0864
+273,Hyacintha,Casey,race3,county1,2,269516,group3,597-62-3680
+274,Sharia,Ward,race2,county1,1,272640,group2,342-40-5709
+275,Myer,Hale,race2,county2,4,222459,group1,836-68-0546
+276,Adan,Hoffman,race1,county2,3,85891,group3,187-79-5547
+277,Demott,Le,race3,county1,5,166362,group2,711-57-2916
+278,Mirilla,Waters,race2,county4,1,60800,group1,199-26-6065
+279,Marilee,Pollard,race3,county1,4,64729,group2,484-72-9069
+280,Fabe,Ward,race3,county1,0,183860,group1,756-58-8266
+281,Merrili,Lawson,race2,county1,3,36467,group3,693-33-5373
+282,Oralie,Hoffman,race1,county1,0,172962,group2,449-35-0545
+283,Liza,Le,race1,county4,5,260469,group3,878-45-2691
+284,Domingo,Pollard,race3,county1,3,156865,group3,358-37-3776
+285,Gaynor,Cannon,race1,county1,5,191472,group2,306-81-4856
+286,Lynna,Owen,race3,county1,3,182627,group1,783-68-1500
+287,Maryann,Pollard,race1,county2,5,289161,group1,711-77-1510
+288,Sax,Lawson,race3,county1,0,269644,group1,569-75-7034
+289,Shea,Ward,race3,county1,3,184492,group3,835-87-2017
+290,Sherry,Brooks,race1,county4,4,100181,group2,452-05-9727
+291,Kirby,Hale,race2,county4,0,169403,group1,141-92-8234
+292,Melessa,Owen,race2,county4,2,21848,group3,307-51-4844
+293,Gavin,Hoffman,race1,county4,5,18134,group2,276-79-8467
+294,Marylinda,Lawson,race2,county3,1,214656,group3,783-04-2063
+295,Pearle,Pollard,race3,county1,1,201465,group3,108-64-0826
+296,Demetra,Quinn,race3,county1,4,68136,group1,511-53-3765
+297,Bernard,Quinn,race3,county1,0,225407,group1,219-47-6706
+298,Erinn,Scott,race2,county2,0,86431,group3,116-36-5553
+299,Bary,Elliott,race1,county4,3,270276,group2,717-43-7969
+300,Marris,Casey,race1,county4,2,93980,group1,200-99-2666
+301,Virgilio,Owen,race2,county2,3,144227,group3,370-24-3352
+302,Gustie,Quinn,race2,county3,2,126852,group2,302-08-7137
+303,Grier,Ward,race2,county2,4,274649,group3,340-86-8150
+304,Hamilton,Owen,race3,?,1,254516,group2,201-19-0088
+305,Roxie,Pollard,?,county4,2,237004,group2,?
+306,Colette,Watson,?,county3,3,117050,group3,?
+307,Fabio,Lawson,race3,county1,5,53782,group3,259-31-4868
+308,Lamont,Brooks,race3,county1,0,154361,group3,343-13-2101
+309,Fidel,Wilkerson,race2,county3,3,65410,group3,683-87-6775
+310,Lainey,Scott,race1,county1,5,252745,group1,366-53-7902
+311,Albert,Owen,race3,county1,5,227051,group3,300-06-1842
+312,Bryn,Lawson,race3,county1,5,182162,group2,495-28-0602
+313,Harri,Ward,race3,county1,1,169777,group3,387-43-0014
+314,Brit,Hale,race2,county2,3,233190,group3,800-51-2866
+315,Isidora,Hawkins,race2,county3,1,131367,group2,863-06-0947
+316,Sholom,Hawkins,race2,county1,5,160753,group1,273-15-0090
+317,Lauren,Hale,race3,county1,1,37599,group2,620-81-1847
+318,Betti,Casey,?,county2,4,49085,group3,?
+319,Inessa,Elliott,race1,county3,1,285718,group1,205-28-3378
+320,Dave,Quinn,?,county2,4,296895,group2,?
+321,Beaufort,Elliott,?,county4,5,168185,group2,?
+322,Curcio,Cervantes,race1,county4,0,299081,group1,119-20-0672
+323,Bianca,Watson,race1,county2,2,221280,group1,724-69-7447
+324,Mariele,Brooks,race2,county3,2,71721,group3,422-51-8295
+325,Roma,Elliott,race2,county4,0,228196,group1,824-12-6895
+326,Blanca,Quinn,?,county4,3,270516,group2,?
+327,Orelia,Scott,race1,county3,1,267911,group1,208-41-3505
+328,Kerk,Le,race2,county4,3,226168,group3,474-25-9013
+329,Sheelagh,Brooks,race1,county1,2,246710,group2,700-06-9100
+330,Ursulina,Kirk,race2,county2,2,181952,group2,496-72-9478
+331,Katy,Wilkerson,race1,county1,0,69558,group2,581-66-6052
+332,Bettye,Watson,?,county1,0,97183,group2,743-50-8973
+333,Conrado,Pollard,?,county1,2,153586,group2,642-52-5849
+334,Clayborne,Waters,race3,county1,0,109032,group1,563-59-7445
+335,Adara,Cannon,race2,county3,3,17273,group1,769-59-5091
+336,Charlene,Scott,race1,county1,4,44515,group3,713-85-6933
+337,Gustavus,Frank,race2,county2,5,25155,group3,573-46-3739
+338,Theodore,Cervantes,race1,county2,3,86976,group2,409-43-9870
+339,Revkah,Cervantes,race1,county2,0,22894,group2,438-22-6453
+340,Meg,Quinn,race3,county1,2,131060,group3,602-96-2422
+341,Malinda,Cervantes,race1,county3,2,174997,group3,716-38-3438
+342,Heida,Brooks,race1,county3,3,20243,group3,204-48-0959
+343,Liuka,Waters,race3,county1,3,126241,group1,169-81-3482
+344,Susan,Le,race1,county2,2,86146,group1,705-64-2779
+345,Gardener,Owen,race3,county1,1,74392,group1,655-68-4611
+346,Griff,Owen,race2,county4,5,153217,group2,638-63-8221
+347,Ebony,Watson,race3,county1,4,266239,group2,503-91-5482
+348,Gayle,Cannon,race1,county4,0,30825,group3,637-69-3206
+349,Lon,Waters,race1,county1,3,219684,group1,759-50-8379
+350,Pren,Cervantes,race1,county4,2,146099,group1,215-70-0554
+351,Andy,Hale,race1,county1,1,147344,group2,291-33-8161
+352,Glenine,Ward,race1,county2,0,222055,group1,654-74-6772
+353,Eugenia,Le,?,county2,5,299204,group2,?
+354,Cherry,Frank,race3,county1,5,165997,group2,754-30-4538
+355,Byrom,Hawkins,race2,county2,4,20084,group2,556-87-8920
+356,Davon,Quinn,race1,county2,4,174346,group3,307-57-4988
+357,Glynn,Scott,race2,?,5,90575,group3,551-78-5503
+358,Doralia,Pollard,race3,?,1,251965,group3,634-46-6685
+359,Sallie,Scott,race3,county1,4,235095,group1,641-74-0190
+360,Andris,Waters,race2,county2,2,184416,group3,632-92-0569
+361,Christen,Quinn,?,county4,0,169687,group1,?
+362,Margie,Waters,race3,?,3,60354,group2,172-52-9844
+363,Bronson,Cervantes,?,county3,0,270614,group3,?
+364,Malissia,Le,race2,county2,3,64743,group3,726-99-2269
+365,Gwyn,Kirk,race1,county2,0,139946,group1,131-06-2659
+366,Alessandro,Cervantes,race2,county3,1,97416,group3,456-65-1732
+367,Fabio,Quinn,race1,county1,0,17546,group2,257-59-4193
+368,Kristopher,Hoffman,?,county3,5,136507,group2,?
+369,Stanford,Ward,?,county4,2,39317,group1,?
+370,Karlee,Owen,race3,county1,2,11443,group1,729-80-8870
+371,Sofia,Waters,race1,county1,1,99239,group3,250-14-5665
+372,Nicoline,Waters,race2,county2,3,165827,group3,395-69-6827
+373,Muriel,Scott,race1,?,1,194769,group3,215-47-5981
+374,Jemmy,Hoffman,race3,county1,1,196806,group1,115-97-6843
+375,Ketti,Waters,?,county1,2,59589,group1,?
+376,Tootsie,Waters,race1,?,4,270655,group1,163-77-4830
+377,Darline,Lawson,race3,county1,5,13564,group3,488-54-8831
+378,Morganne,Frank,race2,county4,3,189569,group2,613-21-1845
+379,Mirabella,Le,race3,county1,1,91379,group2,560-33-8897
+380,Stevana,Lawson,race3,?,3,238505,group1,653-57-6487
+381,Barnabe,Hawkins,race1,county3,5,145290,group2,484-88-9574
+382,Bonnibelle,Hale,race2,county4,4,116624,group2,498-64-8430
+383,Rhody,Brooks,race3,county1,4,80406,group1,347-09-5810
+384,Thornie,Hawkins,race1,county2,2,207122,group3,363-51-7041
+385,Robinetta,Brooks,race1,county1,1,260352,group2,439-22-4879
+386,Lulita,Cervantes,race3,county1,3,101067,group3,884-09-2523
+387,Martin,Cannon,race1,county4,5,217925,group1,749-19-7809
+388,Jerome,Le,race3,county1,5,295545,group1,365-92-1941
+389,Conn,Brooks,race3,county1,4,35449,group1,238-67-4589
+390,Greer,Frank,race1,?,1,179939,group3,738-18-4574
+391,Marshal,Brooks,race2,county3,1,114522,group3,843-42-6437
+392,Cedric,Frank,race1,county2,3,244162,group1,881-10-8640
+393,Wye,Cannon,race1,county1,2,13910,group2,307-12-1600
+394,Selina,Ward,race3,county1,5,194450,group2,881-33-4777
+395,Rudolf,Hawkins,race3,county1,2,186162,group3,786-62-1922
+396,Adria,Waters,race3,county1,3,241370,group1,330-17-3281
+397,Cosimo,Waters,race2,county4,4,254033,group3,223-04-8394
+398,Rayna,Pollard,race1,county1,5,59025,group1,512-43-0458
+399,Land,Frank,race2,county4,0,212670,group3,508-80-9905
+400,Keith,Brooks,race3,county1,1,298780,group1,637-08-3796
+401,Marrissa,Brooks,race3,county1,1,194381,group1,563-51-1059
+402,Abbot,Hoffman,race3,county1,5,15803,group2,812-67-6928
+403,Rene,Brooks,race1,?,4,120461,group1,115-84-7620
+404,Constantin,Le,race1,county1,5,295471,group2,392-08-3975
+405,Moria,Brooks,race2,county3,4,206900,group1,792-43-1952
+406,Clyde,Waters,race3,county1,4,229561,group2,237-10-3588
+407,Lorry,Waters,race1,county1,1,231556,group1,634-17-6109
+408,Bentlee,Hale,?,county1,0,81824,group2,?
+409,Morgen,Watson,race3,county1,4,73347,group3,518-36-7723
+410,Theadora,Cervantes,race3,?,4,184551,group1,758-57-9998
+411,Lexy,Brooks,race1,county1,0,188987,group1,408-74-5371
+412,Jackquelin,Ward,race1,county2,1,245112,group1,530-79-7039
+413,Taber,Hoffman,race2,county1,2,276984,group3,425-67-9278
+414,Beaufort,Hawkins,?,county1,4,208423,group3,193-86-9979
+415,Ewan,Ward,race1,county1,2,239738,group3,761-54-6000
+416,Phillida,Pollard,race1,county1,1,179397,group1,859-51-0311
+417,Stacia,Scott,race2,county3,0,118659,group1,794-12-0184
+418,Jo,Le,race3,county1,4,285003,group3,885-01-1788
+419,Haleigh,Cannon,race3,county1,4,129773,group3,582-49-5895
+420,Lexine,Frank,race2,county4,4,246315,group2,115-15-2594
+421,Luci,Hale,race1,county3,4,81510,group1,635-49-7647
+422,Vaughn,Casey,race1,county2,4,210771,group1,768-35-1364
+423,Elysha,Wilkerson,race2,county2,0,148916,group3,711-50-0678
+424,Arline,Lawson,race3,?,4,144029,group2,377-57-7284
+425,Ynez,Cannon,?,county1,0,96940,group2,?
+426,Wenona,Owen,race3,county1,4,174062,group1,317-31-4372
+427,Marice,Waters,race3,county1,3,217518,group2,267-54-7980
+428,Lucky,Casey,race3,county1,4,122679,group3,806-27-9879
+429,Jeramey,Cervantes,race3,county1,3,163682,group2,690-88-8790
+430,Yovonnda,Quinn,?,county4,0,75332,group3,?
+431,Marylou,Hawkins,?,county1,4,169697,group2,?
+432,Hillel,Scott,?,county3,1,174989,group2,?
+433,Aleksandr,Cervantes,race2,county2,3,136335,group1,119-43-8428
+434,Ayn,Cannon,race2,county4,3,265728,group1,713-92-8157
+435,Thurston,Hoffman,race2,county2,0,273409,group2,488-64-6881
+436,Eddi,Le,race3,county1,0,290191,group3,399-41-2535
+437,Sibylle,Hoffman,race1,county3,5,113240,group1,411-20-1463
+438,Dell,Pollard,race3,county1,0,15081,group1,468-86-7931
+439,Baxie,Ward,race3,county1,1,179602,group2,783-79-8746
+440,Hortense,Frank,race2,county1,4,210611,group2,573-47-2630
+441,Jeanna,Pollard,race2,county4,5,135162,group1,534-33-4165
+442,Hulda,Casey,race2,county1,4,97793,group2,746-62-1854
+443,Lynett,Elliott,race3,county1,3,77336,group3,891-24-7157
+444,Germayne,Owen,race3,?,5,52829,group2,326-25-3190
+445,Maritsa,Brooks,race2,county1,0,33115,group1,297-54-5399
+446,Muire,Hale,race2,county2,3,200410,group1,359-41-7657
+447,Vincent,Le,race2,county2,1,231462,group2,673-44-7278
+448,Lambert,Ward,race1,county1,4,195992,group2,605-83-2019
+449,Phylis,Hoffman,race2,county2,2,286612,group3,788-60-9883
+450,Mabel,Scott,?,county4,4,225093,group2,?
+451,Hephzibah,Cannon,race3,county1,4,50640,group3,726-08-2799
+452,Correy,Kirk,race2,county4,2,202327,group2,662-09-5786
+453,Dante,Pollard,race3,?,2,147660,group2,114-02-1545
+454,Rosie,Watson,?,county4,5,181485,group3,?
+455,Leodora,Hale,?,county4,1,178023,group2,?
+456,Annalise,Frank,race1,county1,5,270524,group2,140-70-9458
+457,Laughton,Cervantes,?,county4,0,98980,group3,?
+458,Hatty,Hawkins,race1,county4,0,94068,group1,302-38-8359
+459,Charla,Ward,?,county1,1,257422,group1,?
+460,Free,Brooks,race2,county2,1,32802,group2,846-54-3684
+461,Jobi,Elliott,race2,county4,5,229900,group2,165-07-4053
+462,Stephie,Cervantes,?,county3,2,218283,group2,?
+463,Desdemona,Ward,race2,county3,0,279266,group2,833-92-9771
+464,Crissy,Ward,race3,county1,0,67390,group2,478-47-2416
+465,Cash,Scott,race2,county2,2,279691,group1,544-37-3961
+466,Ambrosio,Hale,race3,county1,1,43562,group1,868-89-4046
+467,Callie,Hoffman,?,county4,4,81468,group1,?
+468,Thaddus,Elliott,race3,county1,3,22336,group1,644-57-6654
+469,Coleman,Elliott,race2,county4,4,229241,group3,334-53-4913
+470,Daisey,Pollard,race1,county2,5,201945,group2,621-82-6126
+471,Derk,Casey,race2,county4,5,244660,group3,308-57-3372
+472,Lara,Hoffman,?,county2,1,188765,group3,?
+473,Tabitha,Brooks,race2,county3,0,72775,group2,341-41-8225
+474,Madelena,Watson,race3,county1,4,168680,group3,592-27-5671
+475,Pennie,Lawson,race3,county1,1,192657,group1,305-10-4344
+476,Giacinta,Lawson,race1,county3,2,283864,group3,667-04-2662
+477,Carolyne,Kirk,race3,county1,4,134670,group2,881-05-9858
+478,Byran,Hawkins,race1,county3,0,100964,group3,597-35-4198
+479,Sherwood,Watson,race2,county1,0,225810,group1,765-16-3736
+480,Kelwin,Cannon,race2,county3,4,127848,group1,612-33-0935
+481,Cori,Casey,race1,?,5,42624,group2,411-72-6036
+482,Roch,Casey,race3,county1,5,30043,group2,616-99-5062
+483,Artemus,Frank,race1,county1,4,102632,group2,468-54-0444
+484,Keriann,Owen,race3,county1,4,63284,group3,843-21-9072
+485,Keeley,Casey,race3,county1,2,215216,group2,322-93-6434
+486,Boyce,Waters,race3,county1,2,269635,group3,850-73-5968
+487,Meriel,Quinn,race1,county1,2,181310,group1,209-82-7842
+488,Andreas,Hawkins,race1,county3,4,230945,group1,585-36-4746
+489,Kandace,Brooks,?,county2,0,289383,group1,?
+490,Tad,Casey,race1,county2,5,99038,group2,252-31-0883
+491,Eolanda,Watson,race3,county1,0,149459,group2,384-29-2372
+492,Jory,Brooks,race2,county1,0,251411,group2,251-04-9548
+493,Ayn,Kirk,race3,county1,1,222925,group1,533-53-5874
+494,Odelle,Hawkins,race2,county3,4,83197,group1,458-54-2848
+495,Avram,Pollard,race2,county2,1,197483,group2,208-38-2008
+496,Noah,Waters,race1,county4,1,161422,group3,548-28-8955
+497,Kane,Lawson,race2,county3,1,154156,group1,225-03-7405
+498,Prentice,Cervantes,race3,county1,4,200184,group2,788-77-0887
+499,Mira,Kirk,race3,county1,4,40575,group1,522-91-5227
+500,Chloette,Ward,race2,county1,1,187213,group1,197-19-1184
+501,Latrina,Hale,race3,county1,0,114392,group2,515-79-5225
+502,Annamarie,Pollard,race3,county1,3,90559,group3,885-12-8667
+503,Jareb,Frank,race2,county2,0,130928,group2,812-54-2591
+504,Corabelle,Watson,race3,county1,3,47234,group1,895-62-1892
+505,Sara,Le,race2,county2,4,236386,group1,455-39-5007
+506,Shandee,Elliott,race2,county1,4,107449,group3,817-93-2544
+507,Auria,Kirk,race1,county3,3,52873,group2,777-16-0362
+508,Buck,Hoffman,race2,county3,2,67017,group1,381-57-0909
+509,Hakeem,Cannon,race1,county2,4,140977,group1,373-41-3424
+510,Kerri,Hale,race2,county4,5,25609,group2,822-40-0269
+511,Leigh,Watson,race3,county1,3,178146,group1,641-80-0061
+512,Livvyy,Owen,race2,county2,2,247789,group1,393-93-3831
+513,Philip,Le,race1,county1,3,228149,group3,283-38-2061
+514,Perice,Ward,race3,county1,4,258816,group1,855-61-3020
+515,Tania,Elliott,race2,county2,4,85870,group2,847-08-0130
+516,Lorry,Cannon,race1,county1,1,274774,group3,371-41-3345
+517,Beilul,Brooks,race2,county3,2,189285,group1,836-46-6110
+518,Annmaria,Watson,race2,county3,3,272585,group2,377-76-8470
+519,Jerrine,Waters,race2,county3,2,264608,group3,219-25-7465
+520,Roxane,Le,race2,county4,3,115218,group3,614-96-7307
+521,Harlen,Lawson,race3,county1,0,18640,group3,200-69-3647
+522,Margarete,Casey,race1,county3,0,219747,group3,600-77-7464
+523,Marje,Hoffman,race2,county3,3,130103,group2,843-69-9520
+524,Hedwiga,Le,race2,?,1,159466,group3,500-46-3766
+525,Jacquetta,Le,race2,county3,1,296035,group2,753-33-0967
+526,Murielle,Elliott,race3,county1,4,142930,group2,871-94-7439
+527,Frederich,Ward,race3,county1,5,82577,group2,737-81-6241
+528,Brittan,Cannon,race3,county1,2,137171,group3,640-20-6929
+529,Cordell,Pollard,race2,county3,1,257361,group3,593-52-6350
+530,Angelico,Owen,?,county2,1,208971,group2,?
+531,Stevana,Frank,race3,county1,0,137250,group1,250-65-2939
+532,Raynell,Brooks,race2,county4,3,122765,group1,242-84-2087
+533,Way,Watson,race1,county1,0,220427,group1,401-74-2809
+534,Roxanna,Waters,race1,county2,1,199790,group1,438-80-1550
+535,Minne,Waters,race3,county1,3,144353,group3,688-36-8713
+536,Dulcia,Elliott,race2,county4,5,259618,group3,762-64-1278
+537,Nick,Elliott,race1,county3,5,73850,group1,387-79-5264
+538,Mohandis,Scott,?,county1,3,189848,group2,?
+539,Dagmar,Ward,race3,county1,5,215979,group3,683-14-6446
+540,Roxane,Ward,race1,county3,5,185986,group2,337-28-5329
+541,Ardith,Le,race3,county1,5,172957,group3,499-66-4309
+542,Raffaello,Scott,race3,county1,4,111861,group3,519-79-8788
+543,Joshuah,Hawkins,?,county3,0,178429,group1,?
+544,Keely,Quinn,race2,county4,5,59083,group2,325-36-1465
+545,Natalya,Hoffman,race2,county3,3,203254,group1,725-54-7967
+546,Hortense,Quinn,race2,county3,0,105551,group2,850-39-8879
+547,Marylin,Le,race2,county1,4,160631,group3,495-79-2690
+548,Aubert,Pollard,?,county4,4,280821,group3,?
+549,Normy,Le,race2,county1,2,256612,group2,724-29-9105
+550,Blythe,Owen,race2,county4,2,203468,group3,651-34-4843
+551,Liz,Quinn,race1,county2,2,251993,group2,662-64-1643
+552,Lizbeth,Hoffman,?,county1,1,117829,group1,?
+553,Land,Elliott,race3,county1,3,124962,group2,216-04-8508
+554,Eleanore,Elliott,race3,county1,2,220964,group3,132-13-8709
+555,Merell,Hawkins,race3,county1,2,58079,group1,101-75-6087
+556,Lisle,Frank,race3,county1,5,96101,group3,202-07-0410
+557,Josephina,Cannon,race3,county1,1,278502,group3,785-65-4481
+558,Filmer,Owen,?,county1,1,188157,group3,?
+559,Lucky,Cannon,race2,county4,5,58918,group3,882-21-9376
+560,Debora,Elliott,race1,county1,3,41561,group1,346-04-3907
+561,William,Pollard,race1,county1,0,276691,group2,212-87-3509
+562,Bob,Cervantes,race3,county1,0,184747,group3,732-49-4693
+563,Cynde,Hale,race2,county1,5,259186,group1,144-09-5308
+564,Brodie,Brooks,race3,county1,2,104030,group1,793-40-8157
+565,Nanon,Ward,race3,county1,0,201235,group3,268-62-5813
+566,Marrissa,Watson,?,?,5,298023,group3,883-17-1659
+567,Yasmin,Cervantes,race1,county3,5,255980,group1,663-24-2119
+568,Elga,Watson,?,county1,0,246871,group3,?
+569,Darcie,Cannon,race2,county1,3,138468,group3,773-20-8295
+570,Jeremy,Casey,race3,county1,5,56098,group2,522-61-9675
+571,Astrix,Frank,race2,county1,5,111090,group1,773-75-9492
+572,Joyous,Wilkerson,race3,county1,5,295273,group3,541-72-2851
+573,Aloysius,Brooks,race2,county4,3,147353,group3,261-42-6502
+574,Jannel,Lawson,race2,county1,0,118614,group1,663-73-4400
+575,Tiffanie,Pollard,?,county1,5,162152,group2,?
+576,Ravid,Pollard,race1,county4,0,263312,group1,732-74-5687
+577,Jenny,Waters,race1,county1,1,182453,group2,324-38-2078
+578,Danica,Hale,?,county2,5,167199,group3,?
+579,Alfreda,Elliott,race3,?,5,117183,group2,158-86-7074
+580,Shalna,Pollard,race3,county1,3,217147,group2,261-25-6357
+581,Ginny,Lawson,race1,county1,1,175843,group3,784-06-9875
+582,Cynthy,Owen,race1,county1,3,57487,group1,197-04-7756
+583,Isadore,Elliott,race3,county1,1,253384,group2,676-46-4853
+584,Jasmine,Elliott,race1,county4,4,227518,group2,679-25-5507
+585,Jeralee,Cannon,race1,county4,5,251144,group1,542-63-5155
+586,Bald,Frank,race3,?,0,243647,group1,490-87-9555
+587,Jasmine,Elliott,race2,county1,5,192797,group3,655-21-6773
+588,Chicky,Pollard,race2,county3,1,263630,group2,320-03-7592
+589,Jackie,Frank,race1,county4,3,205774,group3,897-15-0871
+590,Fran,Waters,race3,county1,1,255886,group1,397-87-2174
+591,Addy,Elliott,race3,county1,3,21464,group3,742-23-6014
+592,Philbert,Le,race1,county4,4,130104,group2,290-24-6495
+593,Gwyn,Brooks,race3,county1,1,157841,group2,503-70-3990
+594,Merci,Hale,race2,?,5,176001,group3,636-46-7074
+595,Field,Ward,race2,county4,2,295893,group3,547-03-5675
+596,Jameson,Scott,race2,county2,0,233292,group3,401-45-2915
+597,Dani,Lawson,race1,county3,3,172096,group3,772-12-3838
+598,Daniela,Hoffman,race2,county4,0,22897,group1,512-76-7252
+599,Joellyn,Waters,race3,county1,4,29880,group3,509-99-1875
+600,Carlie,Pollard,race3,county1,2,280358,group1,791-11-0985
+601,Khalil,Hawkins,race1,county3,3,294361,group1,429-64-6172
+602,Emmerich,Watson,race1,county2,5,147315,group3,442-45-1500
+603,Sky,Casey,race3,county1,0,110319,group2,674-41-8734
+604,Willyt,Le,race3,county1,5,185000,group1,112-69-2457
+605,Chris,Watson,race1,county2,4,250472,group2,467-07-4497
+606,Genevra,Hale,race1,county1,1,101233,group1,276-23-1954
+607,Harley,Casey,race1,county4,3,217190,group2,699-17-5979
+608,Kayle,Hawkins,race1,county1,1,258167,group2,641-69-4416
+609,Danella,Watson,race3,county1,4,256225,group2,470-02-5715
+610,Jacquelin,Watson,race2,county1,1,40254,group2,194-97-1318
+611,Bondie,Pollard,?,county1,2,84372,group1,?
+612,Rowan,Casey,race2,county2,0,24763,group1,378-94-1977
+613,Karola,Pollard,?,county4,4,212996,group2,?
+614,Eb,Kirk,race2,county1,5,120816,group2,814-38-3127
+615,Herman,Owen,race2,county1,5,47996,group1,808-52-2375
+616,Shannen,Waters,race3,county1,4,277177,group2,181-10-0511
+617,Myca,Watson,race3,county1,0,235386,group1,835-21-7642
+618,William,Watson,race3,county1,1,201346,group2,374-42-0474
+619,Lockwood,Cannon,race1,county2,2,61090,group3,426-70-3927
+620,Tani,Brooks,race3,county1,1,51525,group3,505-09-0416
+621,Nikola,Watson,race3,county1,5,60820,group2,195-24-8603
+622,Bradley,Cervantes,race3,county1,4,184598,group1,461-14-9797
+623,Eydie,Kirk,race3,county1,3,173088,group3,527-19-6513
+624,Debbi,Quinn,?,county3,1,38811,group1,?
+625,Goddard,Cervantes,race3,county1,1,217078,group2,639-61-5577
+626,Reiko,Cervantes,race1,county3,1,53054,group3,100-99-9271
+627,Estel,Waters,?,county3,0,255182,group3,?
+628,Kris,Le,race2,county4,4,59566,group3,488-52-6182
+629,Shellie,Ward,race3,county1,4,65809,group2,230-37-9967
+630,Inessa,Ward,race1,?,3,136970,group2,868-52-2482
+631,Katharyn,Brooks,race2,county3,2,185381,group1,882-63-2047
+632,Kerrill,Cannon,race2,county1,3,185729,group2,144-37-3700
+633,Alexandra,Cannon,race3,?,2,264219,group3,866-81-1294
+634,Lothario,Elliott,race1,county2,4,228284,group2,690-99-0079
+635,Tremayne,Owen,race2,county4,4,196230,group2,356-61-0236
+636,Cordi,Wilkerson,race2,county4,5,76367,group3,190-83-8294
+637,Susannah,Brooks,race3,county1,3,285174,group2,516-21-5738
+638,Tootsie,Casey,race2,county4,3,169416,group2,623-76-3499
+639,Brittne,Kirk,race3,county1,0,253376,group1,144-29-6252
+640,Elnore,Le,race2,county2,5,78538,group3,673-15-3641
+641,Doria,Hoffman,race1,county4,2,118925,group3,229-55-2157
+642,Dulcie,Watson,race3,county1,1,233155,group3,833-16-6256
+643,Zelig,Hale,race3,?,3,160611,group1,246-77-5030
+644,Ker,Watson,race1,county2,1,290330,group1,764-17-1239
+645,Lurleen,Pollard,race2,?,3,278629,group1,172-49-8971
+646,Shellie,Elliott,race1,county1,4,123596,group3,209-68-9608
+647,Shepperd,Quinn,race3,county1,2,255263,group3,385-32-6045
+648,Amalea,Frank,race2,county3,0,262373,group2,551-13-9229
+649,Opal,Waters,race2,county2,5,73378,group1,718-70-7726
+650,Kandy,Ward,?,county3,1,156183,group2,?
+651,Dagmar,Lawson,race2,county2,0,169845,group3,471-59-4314
+652,Poul,Hale,race1,county4,4,220739,group2,573-08-9027
+653,Astra,Casey,race2,county4,5,30802,group1,566-87-2017
+654,Waldemar,Le,?,county3,1,56349,group3,?
+655,Kaitlynn,Brooks,race1,?,4,102037,group1,885-83-7779
+656,Garald,Hale,race2,county2,1,293921,group3,404-94-6578
+657,Caryl,Cervantes,race2,county1,3,152746,group1,595-77-5383
+658,Udall,Hale,race2,county3,2,154255,group3,433-18-7125
+659,Barbee,Casey,race1,county1,0,273396,group2,525-36-0231
+660,Rollin,Watson,race3,county1,1,81259,group1,571-87-3022
+661,Martynne,Cervantes,race2,county2,2,171136,group3,717-11-3417
+662,Adeline,Pollard,race3,county1,2,40415,group3,284-72-3788
+663,Thorvald,Quinn,race2,county3,0,216798,group3,244-27-1900
+664,Sheeree,Le,race2,county1,5,249837,group1,396-80-8842
+665,Bentlee,Hawkins,race2,county2,2,209557,group3,516-48-9090
+666,Henrik,Le,race3,county1,2,96379,group3,364-14-5995
+667,Cecilio,Owen,race3,county1,4,213071,group1,553-64-0810
+668,Arda,Scott,race2,county2,5,45302,group1,507-64-3743
+669,Almire,Frank,race3,county1,5,197042,group1,388-79-1043
+670,Randa,Cervantes,race3,county1,4,121322,group1,366-60-5539
+671,Farrah,Cannon,?,county3,4,18950,group2,?
+672,Oralie,Scott,race2,county1,2,140999,group1,330-47-6416
+673,Westbrooke,Elliott,race2,county2,4,89466,group2,683-57-4499
+674,Stephen,Frank,race3,?,3,118452,group3,646-34-8427
+675,Ichabod,Pollard,race1,county2,1,24617,group2,543-35-5524
+676,Mariquilla,Hawkins,race2,county4,2,39147,group2,604-45-7987
+677,Haleigh,Hoffman,race1,county1,3,133953,group1,636-56-7735
+678,Sidnee,Brooks,?,?,1,223727,group2,?
+679,Haily,Frank,race3,county1,5,11836,group1,107-09-1465
+680,Wayne,Frank,?,county2,1,230843,group2,?
+681,Xymenes,Elliott,race1,county1,5,145680,group3,120-40-1661
+682,Heda,Wilkerson,race3,county1,4,133393,group3,557-36-9952
+683,Philomena,Elliott,race1,county3,0,73719,group2,607-84-7577
+684,Kirby,Hawkins,race1,county4,0,212205,group2,658-73-3192
+685,Roddy,Hoffman,race3,county1,2,243161,group1,491-01-6385
+686,Hussein,Quinn,race1,county3,5,229924,group1,399-64-6921
+687,Shel,Hawkins,race1,county2,3,274630,group2,165-45-0424
+688,Artair,Watson,race2,county2,1,29494,group1,703-87-7246
+689,Gipsy,Frank,race3,county1,1,141391,group2,537-97-1936
+690,Blakelee,Cannon,race1,county3,5,266929,group2,472-98-3022
+691,Pansie,Le,race1,county4,4,103717,group1,856-42-7039
+692,Danita,Ward,race2,county3,3,285481,group1,696-75-9746
+693,Jasun,Le,race1,county3,5,230371,group1,714-07-6871
+694,Esme,Brooks,race2,county2,1,28276,group2,289-48-1793
+695,Abram,Brooks,race2,county4,5,42290,group1,310-43-2156
+696,Molli,Watson,race1,county1,5,67638,group1,152-42-7657
+697,Fidelity,Owen,race2,county4,1,194150,group1,314-32-7245
+698,Anatollo,Hale,race2,county1,3,173708,group3,571-77-1842
+699,Ashla,Le,race3,county1,1,291985,group3,359-63-6401
+700,Gizela,Scott,race1,county2,1,31917,group1,888-11-6522
+701,Inessa,Brooks,race3,county1,4,283564,group1,592-90-7105
+702,Birch,Watson,?,county4,5,291840,group1,?
+703,Piggy,Hale,race3,?,0,161475,group1,245-10-9429
+704,Beth,Cervantes,race1,county2,4,180168,group1,658-33-1417
+705,Austina,Scott,race3,county1,0,31680,group2,152-03-1026
+706,Chance,Le,race1,county2,2,44147,group2,407-95-5305
+707,Auguste,Brooks,race2,?,3,284714,group3,671-01-2383
+708,Shandeigh,Wilkerson,race3,county1,5,70606,group3,201-74-8841
+709,Lizzy,Hale,race1,county1,1,108298,group1,202-64-3357
+710,Davin,Watson,race1,county2,4,187215,group1,621-73-4770
+711,Bald,Owen,?,county2,4,119902,group3,?
+712,Stacy,Owen,race3,county1,5,262757,group2,523-95-7493
+713,Elliot,Owen,race2,county2,4,72753,group2,111-27-4144
+714,Aldrich,Le,race2,?,1,170997,group1,535-26-5954
+715,Lynnett,Lawson,race1,county4,1,188199,group1,376-33-1248
+716,Coreen,Wilkerson,race1,county3,4,278332,group2,650-54-7822
+717,Kassie,Hawkins,race2,county3,3,66938,group3,744-09-6011
+718,Marcos,Cannon,race1,county1,2,119896,group3,202-99-2201
+719,Gaylor,Waters,race2,?,0,151490,group1,572-04-4000
+720,Welbie,Waters,race3,county1,5,167984,group1,576-23-1337
+721,Aluin,Frank,race1,county1,5,74615,group3,163-69-7560
+722,Elva,Lawson,race1,county1,2,184946,group3,752-60-5622
+723,Sybila,Quinn,?,county4,0,84480,group1,?
+724,Myca,Brooks,race2,county1,5,69048,group2,204-62-9302
+725,Raquela,Watson,race1,county2,0,122701,group2,896-76-1905
+726,Talbot,Cannon,race2,county4,5,116505,group3,182-25-3950
+727,Olivier,Elliott,race2,county3,5,295733,group2,839-82-1123
+728,Rosalia,Watson,race3,county1,1,270658,group1,851-63-2934
+729,Berti,Hale,race1,county3,0,229251,group2,182-39-5435
+730,Melodee,Hawkins,race3,county1,4,252261,group1,177-02-3628
+731,Faber,Kirk,race2,county3,4,221424,group3,290-98-3790
+732,Gaelan,Scott,?,county3,2,54728,group2,?
+733,Atlante,Hoffman,race2,county2,5,255464,group1,834-31-0602
+734,Meggy,Hale,race3,?,4,229540,group1,675-63-0515
+735,Byran,Kirk,race3,county1,4,34024,group3,273-38-6610
+736,Susie,Hawkins,race1,county4,5,113962,group1,805-89-8682
+737,Udale,Le,race3,county1,4,264889,group1,259-24-2917
+738,Abra,Waters,race2,county2,1,242091,group3,442-67-3572
+739,Katerine,Wilkerson,race1,county2,2,43357,group3,339-68-1978
+740,Merrily,Lawson,race1,county4,2,223643,group3,156-77-2940
+741,Wallace,Hale,?,county4,3,190812,group3,?
+742,Sher,Quinn,race2,county1,1,141739,group3,331-41-1724
+743,Melamie,Elliott,race2,county4,3,83025,group3,449-21-5873
+744,Katinka,Lawson,race2,county2,2,241454,group1,176-25-7815
+745,Cello,Frank,race2,county3,3,92164,group3,328-97-0329
+746,Lucho,Brooks,race2,county4,3,288011,group2,450-25-5308
+747,Tobe,Pollard,?,county1,0,276482,group1,716-52-2082
+748,Alonso,Lawson,?,county1,2,16946,group2,556-92-0429
+749,Natalya,Brooks,race1,county3,1,120279,group2,470-60-4440
+750,Gwendolen,Brooks,?,county4,2,22360,group3,?
+751,Archie,Ward,race3,county1,0,230754,group1,627-68-0274
+752,Shirleen,Brooks,race3,county1,0,278078,group3,250-81-4488
+753,Clare,Frank,race3,county1,1,221161,group2,479-42-9988
+754,Keelia,Cannon,?,county1,4,105620,group1,?
+755,Valdemar,Hawkins,race1,county3,0,224520,group3,332-56-8153
+756,Nedda,Hale,race3,county1,1,95409,group2,465-67-5819
+757,Wally,Watson,race3,county1,5,239370,group1,897-67-1877
+758,Patsy,Cannon,race3,county1,4,287293,group1,451-77-1009
+759,Loydie,Hale,race2,county3,4,27442,group3,811-20-1781
+760,Sosanna,Le,race2,county3,0,194248,group1,456-93-9221
+761,Spenser,Le,race2,county2,5,175836,group3,303-24-9311
+762,Beatrice,Wilkerson,race2,county4,3,268331,group1,257-19-4550
+763,Catina,Pollard,race1,county1,4,149311,group2,261-60-4933
+764,Hurlee,Cervantes,race2,county3,5,176776,group3,639-19-8119
+765,Janeta,Elliott,race1,county4,4,159697,group2,352-14-0928
+766,Dorthea,Quinn,race3,county1,3,100606,group1,258-45-4872
+767,Sampson,Hawkins,race1,county4,2,252224,group2,484-23-0409
+768,Judy,Le,?,county3,5,205141,group3,?
+769,Denys,Ward,race3,county1,0,73350,group2,896-53-5834
+770,Dian,Scott,race1,county1,0,51343,group3,652-45-9262
+771,Georgia,Watson,?,county2,3,14429,group1,?
+772,Audre,Le,race2,county4,3,212996,group1,175-77-8687
+773,Poppy,Cannon,race3,county1,1,129320,group1,171-33-2167
+774,Cate,Quinn,race2,county1,3,72371,group2,876-26-9930
+775,Giralda,Hale,race2,county1,4,69589,group1,293-02-1911
+776,Valentine,Pollard,race1,county4,1,225309,group3,546-41-2719
+777,Deane,Scott,race2,county4,2,152198,group3,495-05-1707
+778,Salvatore,Lawson,race2,county3,3,79643,group2,458-32-9503
+779,Baillie,Watson,race1,county4,2,248104,group2,627-27-8626
+780,Alejoa,Casey,race3,county1,5,42378,group1,137-23-1902
+781,Sarene,Ward,race3,county1,0,262947,group1,251-24-8178
+782,Sena,Wilkerson,race3,county1,2,17118,group1,329-19-6746
+783,Ashli,Cervantes,race2,county1,2,292825,group2,547-21-5342
+784,Aubert,Pollard,race3,county1,0,103138,group1,723-71-0387
+785,Aurore,Hawkins,race2,county2,4,36359,group1,749-61-6951
+786,Bobbie,Casey,race2,county4,4,89176,group2,534-91-7646
+787,Mohammed,Lawson,race1,county2,5,227591,group3,329-78-6324
+788,Hermie,Hale,race2,county4,4,67721,group2,743-12-1047
+789,Gardy,Cervantes,race1,county3,0,150936,group2,646-43-1025
+790,Edlin,Pollard,race2,county2,1,180241,group1,574-85-5957
+791,Gale,Hawkins,race2,county3,4,249476,group1,242-29-7170
+792,Boot,Owen,race1,county1,4,157593,group3,803-89-3182
+793,Nealon,Cervantes,race2,county2,2,83239,group2,358-61-5710
+794,Diego,Brooks,race1,county3,5,212336,group3,792-92-9795
+795,Granville,Hoffman,race2,county1,3,175331,group2,759-57-8381
+796,Domenic,Hawkins,race2,county4,1,83444,group2,189-97-5756
+797,Lacy,Hawkins,race2,county2,5,85363,group3,235-61-6953
+798,Rurik,Lawson,race1,county2,0,30850,group3,492-74-5082
+799,Bent,Hawkins,race3,county1,5,170208,group1,691-05-4827
+800,Talia,Scott,?,county3,4,33908,group3,?
+801,Bell,Quinn,race2,county1,1,96535,group3,711-55-3230
+802,Blayne,Watson,race2,county1,2,44478,group3,100-44-2731
+803,Bette-ann,Scott,race3,county1,3,183175,group2,298-27-7654
+804,Barbra,Lawson,race3,county1,0,181196,group2,430-33-1910
+805,Hughie,Watson,race2,county4,1,95286,group1,204-22-1053
+806,Kellyann,Casey,race2,county2,3,107456,group2,362-46-3628
+807,Raul,Cervantes,race2,county1,2,256124,group3,145-56-3313
+808,Aldwin,Ward,?,county3,3,118096,group2,?
+809,Briny,Cannon,race3,county1,0,224645,group1,186-58-4429
+810,Dario,Ward,race3,county1,1,61998,group2,365-25-3588
+811,Kelly,Hoffman,race3,county1,0,60163,group2,324-84-4264
+812,Nicole,Cervantes,race1,county4,3,21458,group1,426-58-3187
+813,Claudia,Le,race3,county1,2,26065,group1,678-28-5965
+814,Marcos,Wilkerson,race3,county1,5,189232,group1,458-07-3200
+815,Rad,Wilkerson,?,county1,2,191084,group3,?
+816,Ward,Brooks,race2,county3,4,150994,group2,828-85-8234
+817,Jordon,Scott,race1,county4,5,74616,group1,722-07-2412
+818,Carol,Ward,?,county3,0,97882,group2,?
+819,Inna,Casey,race2,county2,3,125716,group1,621-94-5831
+820,Bret,Elliott,race1,county3,5,284415,group2,372-29-3371
+821,Kimball,Hawkins,race1,county2,0,153833,group2,147-49-1569
+822,Theresita,Brooks,race3,county1,2,139707,group1,730-29-5478
+823,Marrissa,Hawkins,race1,county4,4,199389,group3,533-05-2843
+824,Juliet,Watson,race3,county1,0,124557,group1,549-99-0275
+825,Rafaela,Lawson,race1,county1,0,118317,group2,446-10-2082
+826,Bald,Watson,race3,county1,2,178332,group2,153-27-8567
+827,Francene,Cervantes,race2,county1,5,285859,group2,524-07-0137
+828,Omero,Hale,race2,county4,3,240084,group2,362-84-9953
+829,Tania,Pollard,race2,county3,5,98483,group1,441-28-6086
+830,Allen,Elliott,race2,county4,5,160199,group1,299-29-7872
+831,Noe,Lawson,race2,county3,1,178836,group3,224-96-8790
+832,Roland,Brooks,race1,county1,3,125546,group2,820-83-7089
+833,Curtis,Lawson,race3,county1,3,279593,group2,302-59-8225
+834,Ricky,Lawson,?,county2,0,178879,group3,?
+835,Gussi,Scott,race1,county1,3,12383,group2,376-11-7757
+836,Judah,Casey,race3,county1,2,116160,group1,408-67-1788
+837,Eolanda,Elliott,race1,county3,4,251654,group3,439-19-9415
+838,Jacquelyn,Elliott,race2,county3,4,214815,group1,363-87-4974
+839,Pearce,Hale,race3,county1,4,69825,group1,101-71-2335
+840,Jerrilee,Owen,race2,county4,2,235192,group2,506-10-9349
+841,Maddi,Le,race1,county2,0,67232,group2,506-02-0348
+842,Harmonie,Hawkins,race3,county1,4,251334,group2,786-15-1940
+843,Margit,Watson,race1,county1,2,122984,group1,418-86-8974
+844,Stephenie,Le,race1,county4,2,92095,group2,244-43-1259
+845,Piper,Elliott,?,county4,5,299059,group1,?
+846,Hannie,Frank,race1,county4,2,215015,group2,115-65-1832
+847,Welby,Brooks,race3,county1,2,114775,group1,485-16-0849
+848,Coletta,Owen,race3,county1,1,185452,group1,564-47-0171
+849,Clari,Waters,race2,county1,1,76991,group2,522-61-8305
+850,Ingaborg,Scott,race2,county4,2,99565,group2,511-13-5410
+851,Chrissie,Owen,?,county4,3,32358,group2,?
+852,Sancho,Waters,race1,county2,4,100349,group3,515-80-8200
+853,Kipp,Brooks,race3,county1,4,127830,group3,812-95-1163
+854,Mercy,Hoffman,race2,county1,1,164561,group1,296-79-8053
+855,Lurette,Waters,race2,county3,5,176846,group3,450-78-8417
+856,Reggy,Elliott,race2,county4,5,35220,group3,725-34-7379
+857,Garvy,Brooks,race3,county1,4,135941,group2,843-86-7299
+858,Avigdor,Brooks,race2,county3,3,198960,group3,868-20-6341
+859,Ber,Frank,race3,county1,5,93950,group1,230-53-2631
+860,Alberto,Le,race3,county1,5,213959,group3,690-25-3108
+861,Edd,Brooks,race3,county1,3,172658,group3,480-57-1285
+862,Jareb,Kirk,race3,?,3,243579,group2,217-32-5351
+863,Packston,Hale,race2,county4,4,110352,group3,359-74-6954
+864,Ariel,Hoffman,race1,county1,0,239048,group3,236-60-8696
+865,Temp,Elliott,race2,county4,3,34110,group1,563-01-3806
+866,Ricky,Pollard,race1,county3,3,123262,group1,408-18-6602
+867,Izaak,Le,race3,?,5,71655,group2,148-23-6013
+868,Kacie,Lawson,race3,county1,4,132028,group3,829-04-1949
+869,Lotti,Hawkins,race3,county1,5,296115,group2,655-04-2032
+870,Clarence,Casey,race1,county1,4,258359,group2,628-98-7585
+871,Kaitlyn,Casey,race2,county2,3,143549,group2,117-08-2415
+872,Josepha,Cannon,?,county2,4,132327,group2,?
+873,Addie,Cervantes,race2,county4,5,258301,group1,607-57-8749
+874,Katy,Lawson,race1,county3,3,134273,group2,816-53-1475
+875,Doyle,Frank,race3,county1,0,167361,group3,612-49-6835
+876,Ramon,Cannon,race2,county3,5,145044,group3,583-46-0950
+877,Joelynn,Cervantes,race1,?,3,14382,group1,342-19-1554
+878,Claretta,Hale,race2,county2,5,28708,group1,285-11-3490
+879,Kayle,Kirk,race1,county1,1,39537,group3,725-47-4880
+880,Glenden,Hale,race3,county1,3,145426,group2,181-85-2541
+881,Raul,Hoffman,race2,county3,5,263748,group2,531-07-9258
+882,Ivonne,Elliott,race2,county1,1,270844,group2,173-53-0941
+883,Timothea,Lawson,race1,county1,4,150286,group1,839-90-4602
+884,Jabez,Waters,race1,county3,3,194805,group1,178-65-5993
+885,Dulci,Owen,?,county3,3,87119,group1,?
+886,Kelwin,Frank,race1,county3,5,136992,group3,506-92-4541
+887,Filippo,Watson,race1,county3,3,60510,group1,887-90-0876
+888,Babara,Brooks,race3,county1,3,78650,group2,439-36-4391
+889,Pietro,Hawkins,race1,county4,1,128689,group1,374-20-0625
+890,Quill,Cervantes,race3,county1,3,189573,group3,707-92-7130
+891,Noella,Waters,race1,county1,3,133049,group1,495-47-5233
+892,Rosene,Hale,race2,county1,0,66821,group1,811-09-0164
+893,Colet,Cannon,race2,county3,1,105752,group2,874-41-7684
+894,Gwynne,Owen,race1,county3,4,58537,group3,249-99-9462
+895,Briana,Scott,race2,county1,1,35795,group1,459-81-1601
+896,Adela,Casey,race3,?,4,273033,group1,725-96-6151
+897,Adelind,Elliott,race2,county1,3,271548,group1,770-09-0848
+898,Maressa,Hawkins,?,county4,5,23337,group3,?
+899,Sigismond,Waters,race2,county3,0,190526,group3,247-19-2796
+900,Thurstan,Quinn,race2,?,4,230515,group2,263-03-4440
+901,Christophorus,Owen,race2,county1,4,64296,group1,882-65-2686
+902,Prescott,Cervantes,?,county4,3,273373,group3,?
+903,Mattie,Waters,race1,county4,4,186112,group1,331-37-8589
+904,Zilvia,Hale,race3,county1,4,213110,group1,243-64-2246
+905,Cherrita,Casey,race2,county4,0,182139,group3,241-59-3329
+906,Beale,Elliott,race1,county2,1,88386,group3,331-25-1835
+907,Brendis,Hawkins,race3,county1,3,28766,group3,637-51-4167
+908,Hulda,Le,race1,county1,2,82821,group1,101-57-6060
+909,Ianthe,Frank,?,county1,4,83825,group1,130-94-4927
+910,Cecile,Ward,race2,county1,3,206837,group3,738-01-2700
+911,Joana,Kirk,race1,county1,0,254396,group1,710-66-0817
+912,Aksel,Brooks,race3,county1,3,295823,group3,114-39-5370
+913,Gabrielle,Owen,race1,county2,4,121074,group3,298-08-3361
+914,Lewie,Hale,race3,county1,2,138347,group1,161-72-3413
+915,Gayle,Le,race2,county3,1,38498,group1,560-77-6824
+916,Hilde,Elliott,race1,county3,3,124851,group3,284-29-0434
+917,Oby,Elliott,race1,county1,2,227896,group1,172-59-8507
+918,Heindrick,Hawkins,race1,?,4,249310,group2,590-56-1891
+919,Wilona,Casey,race2,county1,0,79730,group3,413-61-6438
+920,Hilliary,Hoffman,race1,county4,5,230494,group2,690-70-3281
+921,Emlen,Wilkerson,race3,county1,4,286135,group3,131-86-6528
+922,Lexi,Ward,race3,county1,5,29719,group3,144-55-5228
+923,Suzanna,Scott,race3,county1,3,214013,group3,448-10-0570
+924,Noble,Lawson,race1,county2,4,81620,group2,109-64-0528
+925,Jeri,Le,race2,county2,5,146841,group2,369-56-9141
+926,Gib,Hale,race1,county4,1,146304,group3,630-57-8526
+927,Hallie,Watson,race2,county2,4,283191,group3,519-84-5307
+928,Janene,Hawkins,?,county1,4,287190,group2,?
+929,Enrichetta,Waters,race1,county1,2,228880,group1,899-99-1397
+930,Gladys,Ward,race1,county4,3,214440,group2,302-32-9494
+931,Donn,Owen,race3,county1,5,70889,group3,626-50-3101
+932,Gail,Hawkins,race1,county4,2,299985,group2,257-50-5306
+933,Rinaldo,Wilkerson,race1,county3,5,122148,group3,194-39-1071
+934,Marlin,Frank,race3,county1,3,290985,group1,609-79-1281
+935,Jana,Le,race2,county2,5,225972,group1,292-79-0219
+936,Fraser,Casey,race3,county1,2,243555,group2,819-20-4221
+937,Averell,Cervantes,race2,?,1,299284,group1,525-34-6179
+938,Hedvig,Lawson,?,county4,5,139693,group1,?
+939,Ophelia,Frank,race1,county2,4,30053,group3,127-21-6271
+940,Heather,Hawkins,race3,county1,4,170586,group2,836-09-2857
+941,Laurianne,Ward,race2,county4,2,142609,group2,723-21-9743
+942,Pablo,Le,race3,county1,1,159926,group2,772-58-2534
+943,Elane,Le,race3,county1,2,114339,group2,439-48-1668
+944,Carlen,Cannon,race3,county1,1,260057,group2,771-10-1125
+945,Viva,Waters,?,county4,1,296963,group1,?
+946,Bliss,Quinn,race2,county3,4,65271,group1,207-47-9408
+947,Mirabel,Frank,race1,?,4,85202,group3,542-43-6786
+948,Lind,Owen,race1,county4,4,193324,group1,353-26-1785
+949,Ida,Ward,race3,county1,2,30827,group3,371-57-9465
+950,Marisa,Cannon,race3,county1,4,38601,group3,326-97-9703
+951,Ortensia,Casey,?,county2,2,81341,group3,?
+952,Verne,Pollard,race1,county3,5,122792,group1,474-35-2656
+953,Cassey,Frank,race2,county3,3,148943,group1,115-74-0945
+954,Demetris,Scott,race1,county3,4,10034,group3,502-03-3482
+955,Jackson,Ward,race1,county4,0,282810,group1,115-74-5428
+956,Floris,Pollard,?,county4,5,203012,group1,?
+957,Laryssa,Lawson,race2,county3,1,292482,group3,648-88-7046
+958,Seka,Pollard,race3,county1,0,187589,group2,287-05-0191
+959,Rafa,Wilkerson,race2,county4,4,177463,group2,825-90-2255
+960,Lin,Frank,race3,county1,3,240861,group2,616-32-2200
+961,Edouard,Cannon,race3,county1,3,210532,group2,800-45-2785
+962,Ruth,Kirk,race3,?,0,158943,group3,742-52-7689
+963,Eileen,Ward,race2,county2,1,70902,group1,690-37-3363
+964,Lissy,Cannon,?,county4,2,142819,group3,?
+965,Brannon,Ward,race2,county2,3,30703,group2,614-31-1377
+966,Efren,Lawson,race1,county4,1,52545,group1,794-82-8102
+967,Alexina,Cannon,race2,county4,4,136251,group3,522-15-1256
+968,Ulric,Pollard,race2,county1,1,299044,group1,765-19-4928
+969,Ricky,Cervantes,race3,county1,4,220420,group2,483-89-2692
+970,Griffin,Waters,race2,county1,3,216123,group1,209-47-5394
+971,Sascha,Scott,?,county3,0,28813,group2,?
+972,Guinevere,Cervantes,race3,county1,3,138758,group1,463-93-7859
+973,Cristal,Elliott,race3,county1,0,279240,group1,107-86-7199
+974,Ringo,Hale,race1,county3,1,263564,group3,496-96-7125
+975,Almeda,Lawson,race2,county4,2,62334,group2,436-79-1942
+976,Sara-ann,Pollard,race1,county3,3,139486,group2,544-44-2318
+977,Alison,Hoffman,race2,county2,0,171713,group2,650-39-0249
+978,Brien,Lawson,race2,county1,1,240083,group1,276-65-2873
+979,Noellyn,Frank,race3,county1,5,248137,group2,108-72-2140
+980,Hortense,Pollard,race3,county1,4,154812,group3,521-35-7139
+981,Adrian,Scott,race1,county1,3,260281,group1,397-63-7041
+982,Nelle,Quinn,?,county2,5,287740,group3,?
+983,Corina,Wilkerson,race2,county2,4,68525,group3,243-72-5139
+984,Annabela,Le,?,?,0,294179,group2,?
+985,Otes,Scott,race3,county1,5,220014,group2,497-01-3279
+986,Gwenore,Casey,race2,county4,4,68949,group2,281-64-4856
+987,Luisa,Hale,?,county2,5,29893,group3,?
+988,Becki,Hale,race3,county1,3,14094,group3,799-19-6433
+989,Darcee,Hale,race1,county3,2,287174,group3,380-57-0205
+990,Dillon,Hawkins,race3,?,2,113843,group1,671-53-5993
+991,Fayette,Hale,race2,county1,4,44991,group2,271-66-0029
+992,Radcliffe,Hawkins,race2,county3,4,141169,group2,867-04-0663
+993,Fran,Le,?,county1,1,178992,group3,197-77-0443
+994,Yule,Ward,race1,county4,1,271533,group3,621-65-2528
+995,Waldon,Hawkins,race1,county1,0,148266,group3,381-79-1903
+996,Mirabelle,Pollard,?,county2,2,202415,group2,?
+997,Lonnie,Kirk,race1,county2,0,148349,group2,294-16-1605
+998,Giulietta,Quinn,race2,county2,5,198516,group3,807-39-6505
+999,Syman,Hawkins,race1,county3,3,221003,group1,511-73-4993
+1000,Boris,Cannon,race2,county4,1,246605,group3,385-99-9732

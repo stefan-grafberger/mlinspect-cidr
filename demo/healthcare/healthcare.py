@@ -13,7 +13,7 @@ from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 from demo.healthcare.demo_utils import MyW2VTransformer, create_model
 from mlinspect.utils import get_project_root
 
-COUNTIES_OF_INTEREST = ['Iowa', 'Florida', 'Ohio', 'California', 'Nevada', 'Texas', 'New York', 'Missouri', 'Virginia']
+COUNTIES_OF_INTEREST = ['county2', 'county3']
 
 # load input data sources (data generated with https://www.mockaroo.com as a single file and then split into two)
 patients = pd.read_csv(os.path.join(str(get_project_root()), "demo", "healthcare", "healthcare_patients.csv"), na_values='?')
@@ -50,7 +50,7 @@ featurisation = ColumnTransformer(transformers=[
 ])
 
 # define the training pipeline for the model
-neural_net = KerasClassifier(build_fn=create_model, epochs=10, batch_size=1, verbose=0, input_dim=201)
+neural_net = KerasClassifier(build_fn=create_model, epochs=10, batch_size=1, verbose=0, input_dim=109)
 pipeline = Pipeline([
     ('features', featurisation),
     ('learner', neural_net)])
