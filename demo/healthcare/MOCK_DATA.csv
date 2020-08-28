@@ -998,4 +998,4 @@ id,first_name,last_name,smoker,race,county,num_children,income,complications,age
 997,Lind,Wilkerson,false,race3,county3,1,185116,10,group1,
 998,Kaiser,Cannon,false,race2,county1,2,260049,6,group1,312-94-4448
 999,Cassandre,Pollard,true,race3,county3,1,75604,2,group2,235-62-0230
-1000,Galina,Hoffman,false,race1,county2,5,274010,7,group3,747-10-7242
+1000,Galina,VeryRareLastName,false,race1,county2,5,274010,7,group3,747-10-7242

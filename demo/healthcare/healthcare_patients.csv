@@ -998,4 +998,4 @@ id,first_name,last_name,race,county,num_children,income,age_group,ssn
 997,Lind,Wilkerson,race3,county3,1,185116,group1,?
 998,Kaiser,Cannon,race2,county1,2,260049,group1,312-94-4448
 999,Cassandre,Pollard,race3,county3,1,75604,group2,235-62-0230
-1000,Galina,Hoffman,race1,county2,5,274010,group3,747-10-7242
+1000,Galina,VeryRareLastName,race1,county2,5,274010,group3,747-10-7242
